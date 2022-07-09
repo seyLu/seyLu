@@ -1,4 +1,4 @@
-<svg viewBox="0 0 400 75" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg viewBox="0 0 400 57" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <foreignObject width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml">
             <style>
@@ -13,7 +13,7 @@
                     background-color: #333;
                     color: #fff;
                     font-weight: 400;
-                    padding: 12px 15px;
+                    padding: 7px 12px;
                     border-bottom: 1px solid #fff;
                 }
 

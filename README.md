@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
     <img src="svg/seyLu-name.svg" alt="seyLu-name">
 </div>
+<br>
 
 ## 📧 Business Inquiries
 - Gmail: seyluofficial@gmail.com 
