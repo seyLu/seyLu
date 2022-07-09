@@ -10,7 +10,7 @@
 
                 .container {
                     font-family: system-ui;
-                    background-color: hsl(216, 28%, 10%);;
+                    background-color: hsl(216, 28%, 14%);;
                     color: #fff;
                     font-weight: 400;
                     padding: 7px 12px;
