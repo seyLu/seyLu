@@ -1,0 +1,43 @@
+<svg viewBox="0 0 400 80" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                * {
+                    box-sizing: border-box;
+                    margin: 0;
+                    padding: 0;
+                }
+
+                .container {
+                    font-family: system-ui;
+                    background-color: #333;
+                    color: #fff;
+                    font-weight: 400;
+                    padding: 12px 15px;
+                    border-bottom: 1px solid #fff;
+                }
+
+                .p-container {
+                    line-height: 1.5;
+                }
+
+                .name {
+                    color: rgb(230, 230, 230);
+                    font-size: 12px;
+                }
+
+                .title {
+                    font-size: 16px;
+                }
+
+            </style>
+
+            <div class="container">
+                <div class="p-container">
+                    <p class="name">MJ Sabit (seyLu)</p>
+                    <p class="title">Full Stack Web Developer</p>
+                </div>
+            </div>
+        </div>
+    </foreignObject>
+</svg>

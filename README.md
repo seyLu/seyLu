@@ -4,13 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <div align="center">
-    <img width="200" src="icons/seyLu.jpg" alt="seyLu" style="border-radius:50%">
-
-## MJ Sabit (seyLu)
-##### Full Stack Web Developer
+    <img src="svg/seyLu-name.svg" alt="seyLu-name">
 </div>
-
-<hr><br>
 
 ## 📧 Business Inquiries
 - Gmail: seyluofficial@gmail.com 
@@ -21,11 +16,12 @@ You can click the Preview link to take a look at your changes.
 |----------|--------|---------|-----------|---|
 |HTML      |Express |SQLite   |Heroku     |Windows |
 |CSS       |Node    |PostgreSQL |Gunicorn |Ubuntu |
-|Vanilla Javascript |Javascript |SQLAlchemy, Automap |Vercel |. |
-|JQuery, AJAX |Django  |.        |Github Pages |. |
-|Bootstrap, Bootswatch |Flask, Flask Blueprints |. |. |. |
-|Materialize |Python |.       |.          |.  |
-|Jinja     |.       |.        |.          |.  |
+|SCSS      |Javascript |SQLAlchemy, Automap |Vercel |. |
+|Vanilla Javascript |Django  |.        |Github Pages |. |
+|JQuery, AJAX |Flask, Flask Blueprints |. |. |. |
+|Bootstrap, Bootswatch |Python |.       |.          |.  |
+|Materialize |.       |.        |.          |.  |
+|Jinja     |.      |.        |.          |.  |
 |Handlebars |.      |.        |.          |.  |
 <br>
 
