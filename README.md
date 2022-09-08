@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-## 🎓 <a target="_blank" href="https://www.coursera.org/learn/bootstrap-4">HKUST - Bootstrap 4</a>(completed)
+## 🎓 [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4) (completed)
 
 [![Bootstrap 4 Certificate](./certificates/Bootstrap4%20Certificate.svg)](https://www.coursera.org/account/accomplishments/verify/MLS52X3RV24C)
 <br><br>
