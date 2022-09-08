@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 ## 🛠 Front-End Technologies
-|**Markup**   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools              |
+|Markup   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools              |
 |---------|------------|-----------------|---------------------|-------------------|---------------------|-------------------------|
 |HTML 5   |CSS 3       |Sass, Scss       |Bootstrap 4, 5       |Vanilla Javascript |.                    |Emmet                    |
 |Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-scss      |
