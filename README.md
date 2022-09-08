@@ -32,7 +32,11 @@ You can click the Preview link to take a look at your changes.
 -   Java
 <br><br>
 
-## 🎓 [CS50w](https://cs50.harvard.edu/web/2020/) (currently taking)
+## [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4) (completed)
+
+![CS50x Certificate](https://www.coursera.org/account/accomplishments/certificate/MLS52X3RV24C)
+
+## 🎓 [Harvard - CS50w](https://cs50.harvard.edu/web/2020/) (currently taking)
 
 ### 🚀 Projects
 
@@ -48,7 +52,7 @@ You can click the Preview link to take a look at your changes.
     - Frontend: Google template, Vanilla Javascript
 <br><br>
 
-## 🎓 [CS50x](https://cs50.harvard.edu/x/2022/) (completed)
+## 🎓 [Harvard - CS50x](https://cs50.harvard.edu/x/2022/) (completed)
 
 ### 🚀 Projects
 
