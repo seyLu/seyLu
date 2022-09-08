@@ -19,6 +19,7 @@ You can click the Preview link to take a look at your changes.
 |Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-scss      |
 |SVG      |.           |.                |Materialize          |.                  |.                    |Parallelshell            |
 |.        |.           |.                |Material Design Lite |.                  |.                    |Http-server, Lite-server |
+
 <br>
 
 ## 🛠 Back-End Technologies
@@ -27,6 +28,7 @@ You can click the Preview link to take a look at your changes.
 |JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Heroku, Gunicorn |Heroku CLI, Vercel CLI |
 |Python              |Django                  |Jinja           |SQLite 3            |Vercel           |Postman                |
 |.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |.                      |
+
 <br>
 
 ## ⚙️ Other Technologies
@@ -36,6 +38,7 @@ You can click the Preview link to take a look at your changes.
 |Ubuntu  |Notepad++, GCC   |Netbeans              |C++                        |.             |
 |.       |.                |Turbo C++             |Java                       |.             |
 |.       |.                |Scratch, Turbowarp    |.                          |.             |
+
 <br><br>
 
 ## 🎓 [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4) (completed)
