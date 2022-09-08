@@ -12,29 +12,36 @@ You can click the Preview link to take a look at your changes.
 - Gmail: seyluofficial@gmail.com 
 <br><br>
 
-## 🛠 Full Stack Technologies
-|Front-End |Back-End |Database |Deployment |OS |
-|----------|--------|---------|-----------|---|
-|HTML      |Express |SQLite   |Heroku     |Windows |
-|CSS       |Node    |PostgreSQL |Gunicorn |Ubuntu |
-|SCSS      |Javascript |SQLAlchemy, Automap |Vercel |. |
-|Vanilla Javascript |Django  |.        |Github Pages |. |
-|JQuery, AJAX |Flask, Flask Blueprints |. |. |. |
-|Bootstrap, Bootswatch |Python |.       |.          |.  |
-|Materialize |.       |.        |.          |.  |
-|Jinja     |.      |.        |.          |.  |
-|Handlebars |.      |.        |.          |.  |
+## 🛠 Front-End Technologies
+|Markup   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools              |
+|---------|------------|-----------------|---------------------|-------------------|---------------------|-------------------------|
+|HTML 5   |CSS 3       |Sass, Scss       |Bootstrap 4, 5       |Vanilla Javascript |.                    |Emmet                    |
+|Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-scss      |
+|SVG      |.           |.                |Materialize          |.                  |.                    |Parallelshell            |
+|.        |.           |.                |Material Design Lite |.                  |.                    |Http-server, Lite-server |
+<br>
+
+## 🛠 Back-End Technologies
+|Server Script       |Server Framework        |Template Engine |Database            |Deployment       |Other Tools            |
+|--------------------|------------------------|----------------|--------------------|-----------------|-----------------------|
+|JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Heroku, Gunicorn |Heroku CLI, Vercel CLI |
+|Python              |Django                  |Jinja           |SQLite 3            |Vercel           |Postman                |
+|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |.                      |
 <br>
 
 ## ⚙️ Other Technologies
--   C
--   C++
--   Java
+|OS      |Text Editor      |IDE                   |Other Programming Language |General Tools |
+|--------|-----------------|----------------------|---------------------------|--------------|
+|Windows |Sublime 4        |VSCode                |C                          |Git           |
+|Ubuntu  |Notepad++, GCC   |Netbeans              |C++                        |.             |
+|.       |.                |Turbo C++             |Java                       |.             |
+|.       |.                |Scratch, Turbowarp    |.                          |.             |
 <br><br>
 
-## [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4) (completed)
+## 🎓 [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4) (completed)
 
-![CS50x Certificate](https://www.coursera.org/account/accomplishments/certificate/MLS52X3RV24C)
+[![Bootstrap 4 Certificate](./certificates/Bootstrap4%20Certificate.svg)](https://www.coursera.org/account/accomplishments/verify/MLS52X3RV24C)
+<br><br>
 
 ## 🎓 [Harvard - CS50w](https://cs50.harvard.edu/web/2020/) (currently taking)
 
@@ -60,7 +67,7 @@ You can click the Preview link to take a look at your changes.
     - Technology used: [Scratch](https://scratch.mit.edu/) packaged with [Turbowarp Packager](https://packager.turbowarp.org/)
 - [Fiftyville](https://fiftyville.herokuapp.com/)
     - Demo: https://youtu.be/l2aBCjvdwhM
-    - Frontend: Bootstrap, Bootswatch Sketchy, JQuery, AJAX
+    - Frontend: Bootstrap 5, Bootswatch Sketchy, JQuery, AJAX
     - Backend: Flask, Flask Blueprint
 
-![CS50x Certificate](https://user-images.githubusercontent.com/98249191/158057800-e7249db4-f955-484e-9bec-9f4c56b73c4d.svg)
+[![CS50x Certificate](./certificates/CS50x%20Certificate.svg)](https://certificates.cs50.io/f18555fa-40f9-42fd-9fe2-11a878c3cbf7.pdf?size=letter)
