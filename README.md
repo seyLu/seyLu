@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 |OS      |Text Editor      |IDE                   |Other Programming Language |General Tools |
 |--------|-----------------|----------------------|---------------------------|--------------|
 |Windows |Sublime 4        |VSCode                |C                          |Git           |
-|Ubuntu  |Notepad++, GCC   |Netbeans              |C++                        |.             |
+|Ubuntu  |Notepad++, GCC   |NetBeans              |C++                        |.             |
 |.       |.                |Turbo C++             |Java                       |.             |
 |.       |.                |Scratch, Turbowarp    |.                          |.             |
 
