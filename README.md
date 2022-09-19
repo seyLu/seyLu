@@ -13,13 +13,12 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 ## 🛠 Front-End Technologies
-|Markup   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools              |
-|---------|------------|-----------------|---------------------|-------------------|---------------------|-------------------------|
-|HTML 5   |CSS 3       |Sass, Scss       |Bootstrap 4, 5       |Vanilla Javascript |.                    |Emmet                    |
-|Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-sass      |
-|SVG      |.           |.                |Materialize          |.                  |.                    |Parallelshell            |
-|.        |.           |.                |Material Design Lite |.                  |.                    |Rimraf, Copyfiles, Imagemin-cli, Usemin-cli, Cssmin, Uglifyjs, Htmlmin |
-|.        |.           |.                |.                    |.                  |.                    |Grunt-cli, Grunt, Grunt-sass, Time-grunt, Jit-grunt, Grunt-contrib-watch, Grunt-browser-sync, Grunt-contrib-copy, Grunt-contrib-clean, Grunt-contrib-imagemin, Grunt-contrib-concat, Grunt-contrib-cssmin, Grunt-contrib-htmlmin, Grunt-contrib-uglify, Grunt-filerev, Grunt-usemin |
+|Markup   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools                        |
+|---------|------------|-----------------|---------------------|-------------------|---------------------|-----------------------------------|
+|HTML 5   |CSS 3       |Sass, Scss       |Bootstrap 4, 5       |Vanilla Javascript |.                    |Emmet                              |
+|Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-sass, Parallelshell |
+|SVG      |.           |.                |Materialize          |.                  |.                    |Rimraf, Copyfiles, Imagemin-cli, Usemin-cli, Cssmin, Uglifyjs, Htmlmin |
+|.        |.           |.                |Material Design Lite |.                  |.                    |Grunt-cli, Grunt, Grunt-sass, Time-grunt, Jit-grunt, Grunt-contrib-watch, Grunt-browser-sync, Grunt-contrib-copy, Grunt-contrib-clean, Grunt-contrib-imagemin, Grunt-contrib-concat, Grunt-contrib-cssmin, Grunt-contrib-htmlmin, Grunt-contrib-uglify, Grunt-filerev, Grunt-usemin |
 |.        |.           |.                |.                    |.                  |.                    |Gulp-cli, Gulp, Gulp-sass, Browser-sync, Del, Gulp-imagemin, Gulp-uglify, Gulp-usemin, Gulp-rev, Gulp-clean-css, Gulp-flatmap, Gulp-htmlmin |
 |.        |.           |.                |.                    |.                  |.                    |Http-server, Lite-server |
 
