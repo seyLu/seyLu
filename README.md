@@ -16,28 +16,32 @@ You can click the Preview link to take a look at your changes.
 |Markup   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools              |
 |---------|------------|-----------------|---------------------|-------------------|---------------------|-------------------------|
 |HTML 5   |CSS 3       |Sass, Scss       |Bootstrap 4, 5       |Vanilla Javascript |.                    |Emmet                    |
-|Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-scss      |
+|Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-sass      |
 |SVG      |.           |.                |Materialize          |.                  |.                    |Parallelshell            |
-|.        |.           |.                |Material Design Lite |.                  |.                    |Http-server, Lite-server |
+|.        |.           |.                |Material Design Lite |.                  |.                    |Rimraf, Copyfiles, Imagemin-cli, Usemin-cli, Cssmin, Uglifyjs, Htmlmin |
+|.        |.           |.                |.                    |.                  |.                    |Grunt-cli, Grunt, Grunt-sass, Time-grunt, Jit-grunt, Grunt-contrib-watch, Grunt-browser-sync, Grunt-contrib-copy, Grunt-contrib-clean, Grunt-contrib-imagemin, Grunt-contrib-concat, Grunt-contrib-cssmin, Grunt-contrib-htmlmin, Grunt-contrib-uglify, Grunt-filerev, Grunt-usemin |
+|.        |.           |.                |.                    |.                  |.                    |Gulp-cli, Gulp, Gulp-sass, Browser-sync, Del, Gulp-imagemin, Gulp-uglify, Gulp-usemin, Gulp-rev, Gulp-clean-css, Gulp-flatmap, Gulp-htmlmin |
+|.        |.           |.                |.                    |.                  |.                    |Http-server, Lite-server |
 
 <br>
 
 ## 🛠 Back-End Technologies
 |Server Script       |Server Framework        |Template Engine |Database            |Deployment       |Other Tools            |
 |--------------------|------------------------|----------------|--------------------|-----------------|-----------------------|
-|JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Heroku, Gunicorn |Heroku CLI, Vercel CLI |
-|Python              |Django                  |Jinja           |SQLite 3            |Vercel           |Postman                |
-|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |.                      |
+|JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Heroku, Gunicorn |Nvm-windows            |
+|Python              |Django                  |Jinja           |SQLite 3            |Vercel           |Heroku CLI, Vercel CLI |
+|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |Postman                |
+|.                   |.                       |.               |.                   |.                |PgAdmin                |
 
 <br>
 
 ## ⚙️ Other Technologies
-|OS      |Text Editor      |IDE                   |Other Programming Language |General Tools |
-|--------|-----------------|----------------------|---------------------------|--------------|
-|Windows |Sublime 4        |VSCode                |C                          |Git           |
-|Ubuntu  |Notepad++, GCC   |NetBeans              |C++                        |.             |
-|.       |.                |Turbo C++             |Java                       |.             |
-|.       |.                |Scratch, Turbowarp    |.                          |.             |
+|OS      |Text Editor          |IDE                   |Other Programming Language |General Tools |
+|--------|---------------------|----------------------|---------------------------|--------------|
+|Windows |Sublime 4            |VSCode                |C                          |Git           |
+|Ubuntu  |Notepad++, MinGW-w64 |NetBeans              |C++                        |Gimp          |
+|.       |.                    |Turbo C++             |Java                       |.             |
+|.       |.                    |Scratch, Turbowarp    |.                          |.             |
 
 <br><br>
 
