@@ -13,14 +13,11 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 ## 🛠 Front-End Technologies
-|Markup   |Style Sheet |CSS Preprocessor |CSS Framework        |Script             |JavaScript Framework |Other Tools                        |
-|---------|------------|-----------------|---------------------|-------------------|---------------------|-----------------------------------|
-|HTML 5   |CSS 3       |Sass, Scss       |Bootstrap 4, 5       |Vanilla Javascript |.                    |Emmet                              |
-|Markdown |.           |Less             |Bootswatch           |JQuery, AJAX       |.                    |Onchange, Node-sass, Parallelshell |
-|SVG      |.           |.                |Materialize          |.                  |.                    |Rimraf, Copyfiles, Imagemin-cli, Usemin-cli, Cssmin, Uglifyjs, Htmlmin |
-|.        |.           |.                |Material Design Lite |.                  |.                    |Grunt-cli, Grunt, Grunt-sass, Time-grunt, Jit-grunt, Grunt-contrib-watch, Grunt-browser-sync, Grunt-contrib-copy, Grunt-contrib-clean, Grunt-contrib-imagemin, Grunt-contrib-concat, Grunt-contrib-cssmin, Grunt-contrib-htmlmin, Grunt-contrib-uglify, Grunt-filerev, Grunt-usemin |
-|.        |.           |.                |.                    |.                  |.                    |Gulp-cli, Gulp, Gulp-sass, Browser-sync, Del, Gulp-imagemin, Gulp-uglify, Gulp-usemin, Gulp-rev, Gulp-clean-css, Gulp-flatmap, Gulp-htmlmin |
-|.        |.           |.                |.                    |.                  |.                    |Http-server, Lite-server |
+|Markup   |CSS Preprocessor |CSS Framework        |Javascript Library |Task Runners |Other Tools |
+|---------|-----------------|---------------------|-------------------|-------------|------------|
+|HTML     |Sass, Scss       |Bootstrap            |React              |NPM Scripts  |Emmet       |
+|Markdown |Less             |Materialize          |Redux              |Gulp         |Yarn, NPM   |
+|SVG      |.                |Material Design Lite |JQuery, AJAX       |Grunt        |Reactstrap  |
 
 <br>
 
@@ -28,23 +25,27 @@ You can click the Preview link to take a look at your changes.
 |Server Script       |Server Framework        |Template Engine |Database            |Deployment       |Other Tools            |
 |--------------------|------------------------|----------------|--------------------|-----------------|-----------------------|
 |JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Heroku, Gunicorn |Nvm-windows            |
-|Python              |Django                  |Jinja           |SQLite 3            |Vercel           |Heroku CLI, Vercel CLI |
-|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |Postman                |
-|.                   |.                       |.               |.                   |.                |PgAdmin                |
+|Python              |Django                  |Jinja           |SQLite              |Vercel           |Postman                |
+|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |PgAdmin                |
 
 <br>
 
 ## ⚙️ Other Technologies
-|OS      |Text Editor          |IDE                   |Other Programming Language |General Tools |
-|--------|---------------------|----------------------|---------------------------|--------------|
-|Windows |Sublime 4            |VSCode                |C                          |Git           |
-|Ubuntu  |Notepad++, MinGW-w64 |NetBeans              |C++                        |Gimp          |
-|.       |.                    |Turbo C++             |Java                       |.             |
-|.       |.                    |Scratch, Turbowarp    |.                          |.             |
+|OS      |Text Editor          |IDE                   |Programming Language |General Tools |
+|--------|---------------------|----------------------|---------------------|--------------|
+|Windows |Sublime              |VSCode                |C                    |Git           |
+|Ubuntu  |Notepad++, MinGW-w64 |NetBeans              |C++                  |Gimp          |
+|.       |.                    |Turbo C++             |Java                 |Batch Script  |
+|.       |.                    |Scratch, Turbowarp    |.                    |.             |
 
 <br><br>
 
-## 🎓 [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4) (completed)
+## 🎓 [HKUST - React](https://www.coursera.org/learn/front-end-react/) (completed)
+
+[![React Certificate](./certificates/React%20Certificate.svg)](https://www.coursera.org/account/accomplishments/verify/5PEGWWFC6A29)
+<br><br>
+
+## 🎓 [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4/) (completed)
 
 [![Bootstrap 4 Certificate](./certificates/Bootstrap4%20Certificate.svg)](https://www.coursera.org/account/accomplishments/verify/MLS52X3RV24C)
 <br><br>
