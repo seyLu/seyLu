@@ -58,7 +58,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- **Mail**&emsp;[**[ View Deployment on PythonAnywhere ]**](https://seylu.pythonanywhere.com/login/admin) 
+- <code>Mail</code>&emsp;[[ View Deployment on PythonAnywhere ]](https://seylu.pythonanywhere.com/login/admin)
     - Frontend: Bootstrap 4, Javascript Fetch, Async/Await
     - Backend: Django
 
@@ -76,19 +76,19 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- **Clone Templates**&emsp;[**[ View Deployment on Vercel ]**](https://clone-template-seylu.vercel.app/)
+- <code>Clone Templates</code>&emsp;[[ View Deployment on Vercel ]](https://clone-template-seylu.vercel.app/)
     - Frontend: Materialize
     - Backend: Express, Node
 
 <br>
 
-- **Wikipedia Clone**&emsp;[**[ View Deployment on Heroku ]**](https://wikipedia-clone-seylu.herokuapp.com/)&emsp;[**[ Watch Youtube Demo ]**](https://youtu.be/KSov2QSPx4s)
+- <code>Wikipedia Clone</code>&emsp;[[ View Deployment on Heroku ]](https://wikipedia-clone-seylu.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/KSov2QSPx4s)
     - Frontend: Wikipedia HTML/CSS, Custom Javascript
     - Backend: Django
 
 <br>
 
-- **Google Clone**&emsp;[**[ View Deployment on Vercel ]**](https://google-clone-seylu.vercel.app/)&emsp;[**[ Watch Youtube Demo ]**](https://youtu.be/FYXgJcMr4YQ)
+- <code>Google Clone</code>&emsp;[[ View Deployment on Vercel ]](https://google-clone-seylu.vercel.app/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/FYXgJcMr4YQ)
     - Frontend: Google HTML/CSS, Custom Javascript
 
 <br><br>
@@ -101,12 +101,12 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- **Doggo Dash**&emsp;[**[ View Deployment on Github Pages ]**](https://seylu.github.io/doggo-dash/)
+- <code>Doggo Dash</code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)
     - Technology used: Scratch packaged with Turbowarp Packager
 
 <br>
 
-- **Fiftyville**&emsp;[**[ View Deployment on Heroku ]**](https://fiftyville.herokuapp.com/)&emsp;[**[ Watch Youtube Demo ]**](https://youtu.be/l2aBCjvdwhM)
+- <code>Fiftyville</code>&emsp;[[ View Deployment on Heroku ]](https://fiftyville.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/l2aBCjvdwhM)
     - Frontend: Bootstrap 5, Bootswatch Sketchy, JQuery, AJAX
     - Backend: Flask, Flask Blueprint
 
