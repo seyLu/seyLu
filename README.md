@@ -24,21 +24,23 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## 🛠 Back-End Technologies
-|Server Script       |Server Framework        |Template Engine |Database            |Deployment       |Other Tools            |
-|--------------------|------------------------|----------------|--------------------|-----------------|-----------------------|
-|JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Heroku, Gunicorn |Nvm-windows            |
-|Python              |Django                  |Jinja           |SQLite              |Vercel           |Postman                |
-|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |Github Pages     |PgAdmin                |
+|Server Script       |Server Framework        |Template Engine |Database            |Other Tools            |
+|--------------------|------------------------|----------------|--------------------|-----------------------|
+|JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Nvm-windows            |
+|Python              |Django                  |Jinja           |SQLite              |Postman                |
+|.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |PgAdmin                |
+|.                   |.                       |.               |.                   |.                      |
 
 <br>
 
 ## ⚙️ Other Technologies
-|OS      |Text Editor          |IDE                   |Programming Language |General Tools |
-|--------|---------------------|----------------------|---------------------|--------------|
-|Windows |Sublime              |VSCode                |C                    |Git           |
-|Ubuntu  |Notepad++, MinGW-w64 |NetBeans              |C++                  |Gimp          |
-|.       |.                    |Turbo C++             |Java                 |Batch Script  |
-|.       |.                    |Scratch, Turbowarp    |.                    |.             |
+|OS      |Text Editor          |IDE                   |Programming Language |Deployment       |General Tools |
+|--------|---------------------|----------------------|---------------------|-----------------|--------------|
+|Windows |Sublime              |VSCode                |C                    |Render           |Git           |
+|Ubuntu  |Notepad++, MinGW-w64 |NetBeans              |C++                  |PythonAnywhere   |Gimp          |
+|.       |.                    |Turbo C++             |Java                 |Heroku, Gunicorn |.             |
+|.       |.                    |Scratch, Turbowarp    |.                    |Vercel           |.             |
+|.       |.                    |.                     |.                    |Github Pages     |.             |
 
 <br><br>
 
@@ -76,7 +78,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- <code> Clone Templates </code>&emsp;[[ View Deployment on Vercel ]](https://clone-template-seylu.vercel.app/)
+- <code> Clone Templates </code>&emsp;[[ View Deployment on Render ]](https://clone-templates.onrender.com/)
     - Frontend: Materialize
     - Backend: Express, Node
 
