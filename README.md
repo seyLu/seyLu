@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-### ⬇️[ Jump to List of Deployed Projects and Project Demos ](#list)
+### ⬇️[ Jump to List of Deployed Projects and Project Demos ](#projects)
 
 <br>
 
@@ -122,9 +122,9 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
+<a id="projects"></a>
 <hr>
 
-<a id="list"></a>
 ## 🚀 List of Deployed Projects and Project Demos
 
 <br>
