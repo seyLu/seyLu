@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 |JavaScript, Node.js |Express.js              |Handlebars      |PostgreSQL          |Nvm-windows            |
 |Python              |Django                  |Jinja           |SQLite              |Postman                |
 |.                   |Flask, Flask Blueprints |.               |SQLAlchemy, Automap |PgAdmin                |
-|.                   |.                       |.               |.                   |.                      |
 
 <br>
 
