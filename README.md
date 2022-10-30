@@ -15,6 +15,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+### ⬇️[ Jump to List of Deployed Projects and Project Demos ](#list)
+
+<br>
+
 ## 🛠 Front-End Technologies
 |Markup   |CSS Preprocessor |CSS Framework        |Javascript Library |Task Runner |Other Tools |
 |---------|-----------------|---------------------|-------------------|------------|------------|
@@ -115,3 +119,46 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 [![CS50x Certificate](./certificates/CS50x%20Certificate.svg)](https://certificates.cs50.io/f18555fa-40f9-42fd-9fe2-11a878c3cbf7.pdf?size=letter)
+
+<br><br>
+
+<hr>
+
+<a id="list"></a>
+## 🚀 List of Deployed Projects and Project Demos
+
+<br>
+
+- <code> Mail </code>&emsp;[[ View Deployment on PythonAnywhere ]](https://seylu.pythonanywhere.com/login/admin)
+    - Frontend: Bootstrap 4, Javascript Fetch, Async/Await
+    - Backend: Django
+
+<br>
+
+- <code> Clone Templates </code>&emsp;[[ View Deployment on Render ]](https://clone-templates.onrender.com/)
+    - Frontend: Materialize
+    - Backend: Express, Node
+
+<br>
+
+- <code> Wikipedia Clone </code>&emsp;[[ View Deployment on Heroku ]](https://wikipedia-clone-seylu.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/KSov2QSPx4s)
+    - Frontend: Wikipedia HTML/CSS, Custom Javascript
+    - Backend: Django
+
+<br>
+
+- <code> Google Clone </code>&emsp;[[ View Deployment on Vercel ]](https://google-clone-seylu.vercel.app/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/FYXgJcMr4YQ)
+    - Frontend: Google HTML/CSS, Custom Javascript
+
+<br>
+
+- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)
+    - Technology used: Scratch packaged with Turbowarp Packager
+
+<br>
+
+- <code> Fiftyville </code>&emsp;[[ View Deployment on Heroku ]](https://fiftyville.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/l2aBCjvdwhM)
+    - Frontend: Bootstrap 5, Bootswatch Sketchy, JQuery, AJAX
+    - Backend: Flask, Flask Blueprint
+
+<br>
