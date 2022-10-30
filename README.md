@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 ## 📧 Business Inquiries
-- Gmail: seyluofficial@gmail.com 
+- Gmail: seyluofficial@gmail.com
+- LinkedIn: https://www.linkedin.com/in/seyLu/
 
 <br>
 
