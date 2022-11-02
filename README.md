@@ -107,7 +107,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)
+- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/kXCYEwcMD8I)
     - Technology used: Scratch packaged with Turbowarp Packager
 
 <br>
@@ -152,7 +152,7 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
-- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)
+- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/kXCYEwcMD8I)
     - Technology used: Scratch packaged with Turbowarp Packager
 
 <br>
