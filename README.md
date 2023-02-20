@@ -13,6 +13,11 @@
 
 <br>
 
+[![Most Used Languages](https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=hack,html,css&langs_count=6&exclude_repo=github-readme-stats,seylu.github.io&layout=compact&theme=omni)](https://github.com/seylu)
+[![seyLu's GitHub stats](https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&hide=issues,prs,stars&show_icons=true&theme=omni)](https://github.com/seylu)
+
+<br>
+
 ## 🛠 Front-End Technologies
 |Markup   |CSS Preprocessor |CSS Framework        |Javascript Library |Task Runner |Other Tools |
 |---------|-----------------|---------------------|-------------------|------------|------------|
