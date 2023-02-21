@@ -8,16 +8,13 @@
 |-----------------------------------|-----------------------------|
 |<strong>Business Inquiries</strong>| [![][gmail-img]][gmail-ref] |
 
-[gmail-ref]: mailto:seyluofficial@gmail.com
-[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<br>
+
+### [ ⬇️⬇️ Jump to list of Deployed Projects ⬇️⬇️ ](#projects)
 
 <br>
 
-### ⬇️[ Jump to List of Deployed Projects and Project Demos ](#projects)
-
-<br>
-
-[![Most Used Languages](https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni)](https://github.com/seylu)
+[![Most Used Languages](https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=5&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni)](https://github.com/seylu)
 [![seyLu's GitHub stats](https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&hide=issues,prs,stars&show_icons=true&theme=omni)](https://github.com/seylu)
 
 <br>
@@ -29,6 +26,133 @@
 |[![][gunicorn-img]][gunicorn-ref] |[![][bash-img]][bash-ref]             |[![][flask-img]][flask-ref]     |[![][handlebars-img]][handlebars-ref] |[![][mysql-img]][mysql-ref]       |[![][diagrams.net-img]][diagrams.net-ref] |
 |[![][node-img]][node-ref]         |[![][javascript-img]][javascript-ref] |[![][express-img]][express-ref] |[![][twig-img]][twig-ref]             |[![][sqlite-img]][sqlite-ref]     |[![][pgadmin-img]][pgadmin-ref]           |
 |[![][apache-img]][apache-ref]     |[![][php-img]][php-ref]               |[![][laravel-img]][laravel-ref] |[![][blade-img]][blade-ref]           |.                                 |[![][phpmyadmin-img]][phpmyadmin-ref]     |
+
+<br>
+
+## 🛠 Front-End Technologies
+
+|Markup                            |Preprocessor              |Framework                           |Library                       |Task Runner                 |Package Manager           |
+|----------------------------------|--------------------------|------------------------------------|------------------------------|----------------------------|--------------------------|
+|[![][html-img]][html-ref]         |[![][sass-img]][sass-ref] |[![][bootstrap-img]][bootstrap-ref] |[![][react-img]][react-ref]   |[![][gulp-img]][gulp-ref]   |[![][npm-img]][npm-ref]   |
+|[![][markdown-img]][markdown-ref] |[![][less-img]][less-ref] |[![][material-img]][material-ref]   |[![][redux-img]][redux-ref]   |[![][grunt-img]][grunt-ref] |[![][yarn-img]][yarn-ref] |
+|[![][svg-img]][svg-ref]           |.                         |.                                   |[![][jquery-img]][jquery-ref] |.                           |.                         |
+
+<br>
+
+## ⚙️ Other Technologies
+|Operating System                |Text Editor                         |Integrated DevEnv                 |Programming Language      |Deployment                                    |Version Control                       |
+|--------------------------------|------------------------------------|----------------------------------|--------------------------|----------------------------------------------|--------------------------------------|
+|[![][ubuntu-img]][ubuntu-ref]   |[![][sublime-img]][sublime-ref]     |[![][vscode-img]][vscode-ref]     |[![][c-img]][c-ref]       |[![][render-img]][render-ref]                 |[![][git-img]][git-ref]               |
+|[![][linux-img]][linux-ref]     |[![][notepad++-img]][notepad++-ref] |[![][netbeans-img]][netbeans-ref] |[![][c++-img]][c++-ref]   |[![][pythonanywhere-img]][pythonanywhere-ref] |[![][gitkraken-img]][gitkraken-ref]   |
+|[![][windows-img]][windows-ref] |.                                   |[![][turboc++-img]][turboc++-ref] |[![][java-img]][java-ref] |[![][heroku-img]][heroku-ref]                 |[![][sourcetree-img]][sourcetree-ref] |
+|.                               |.                                   |[![][scratch-img]][scratch-ref]   |.                         |[![][vercel-img]][vercel-ref]                 |.                                     |
+|.                               |.                                   |.                                 |.                         |[![][githubpages-img]][githubpages-ref]       |.                                     |
+
+<br>
+
+<a id="projects"></a>
+
+## 🚀 Deployed Projects
+
+- ### `Mail`
+
+    > gmail-like full stack mail application written in django
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">][mail-deploy-ref]
+
+
+    [![][django-icon]][django-ref]&nbsp;
+    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [![][python-icon]][python-ref]&nbsp;
+    [![][sqlite-icon]][sqlite-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][bootstrap-icon]][bootstrap-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Clone Templates`
+
+    > full stack express application that hosts a collection of templates used for building full stack clones
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">][clone-templates-deploy-ref]
+
+    [![][express-icon]][express-ref]&nbsp;
+    [![][node-icon]][node-ref]&nbsp;
+    [![][handlebars-icon]][handlebars-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][material-icon]][material-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Wikipedia Clone`
+
+    > wikipedia-like full stack wiki application written in django
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="275" height="30">][wikipedia-clone-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][wikipedia-clone-demo-ref]
+
+    [![][django-icon]][django-ref]&nbsp;
+    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [![][python-icon]][python-ref]&nbsp;
+    [![][sqlite-icon]][sqlite-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Google Clone`
+
+    > google-like static search application written in javascript
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="275" height="30">][google-clone-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][google-clone-demo-ref]
+
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Doggo Dash`
+
+    > game written in scratch and packaged using turbowarp
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" width="310" height="30">][doggo-dash-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][doggo-dash-demo-ref]
+
+    [![][scratch-icon]][scratch-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Fiftyville`
+
+    > inspired from a sql game of the same name is a full stack app/game written in flask
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="275" height="30">][fiftyville-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][fiftyville-demo-ref]
+
+    [![][flask-icon]][flask-ref]&nbsp;
+    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [![][jinja-icon]][jinja-ref]&nbsp;
+    [![][python-icon]][python-ref]&nbsp;
+    [![][postgres-icon]][postgres-ref]&nbsp;
+    [![][sqlite-icon]][sqlite-ref]&nbsp;
+    [![][jquery-icon]][jquery-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+[gmail-ref]: mailto:seyluofficial@gmail.com
+[gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 <!-- Server/RunEnv-->
 [wsgi-ref]: https://wsgi.readthedocs.io/en/latest/
@@ -105,16 +229,6 @@
 [phpmyadmin-ref]: https://www.phpmyadmin.net/
 [phpmyadmin-img]: https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white
 
-<br>
-
-## 🛠 Front-End Technologies
-
-|Markup                            |Preprocessor              |Framework                           |Library                       |Task Runner                 |Package Manager           |
-|----------------------------------|--------------------------|------------------------------------|------------------------------|----------------------------|--------------------------|
-|[![][html-img]][html-ref]         |[![][sass-img]][sass-ref] |[![][bootstrap-img]][bootstrap-ref] |[![][react-img]][react-ref]   |[![][gulp-img]][gulp-ref]   |[![][npm-img]][npm-ref]   |
-|[![][markdown-img]][markdown-ref] |[![][less-img]][less-ref] |[![][material-img]][material-ref]   |[![][redux-img]][redux-ref]   |[![][grunt-img]][grunt-ref] |[![][yarn-img]][yarn-ref] |
-|[![][svg-img]][svg-ref]           |.                         |.                                   |[![][jquery-img]][jquery-ref] |.                           |.                         |
-
 <!-- Markup -->
 [html-ref]: https://html.spec.whatwg.org/multipage/
 [html-img]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -163,16 +277,8 @@
 [yarn-ref]: https://yarnpkg.com/
 [yarn-img]: https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white
 
-<br>
-
-## ⚙️ Other Technologies
-|Operating System                |Text Editor                         |Integrated DevEnv                 |Programming Language      |Deployment                                    |Version Control                       |
-|--------------------------------|------------------------------------|----------------------------------|--------------------------|----------------------------------------------|--------------------------------------|
-|[![][ubuntu-img]][ubuntu-ref]   |[![][sublime-img]][sublime-ref]     |[![][vscode-img]][vscode-ref]     |[![][c-img]][c-ref]       |[![][render-img]][render-ref]                 |[![][git-img]][git-ref]               |
-|[![][linux-img]][linux-ref]     |[![][notepad++-img]][notepad++-ref] |[![][netbeans-img]][netbeans-ref] |[![][c++-img]][c++-ref]   |[![][pythonanywhere-img]][pythonanywhere-ref] |[![][gitkraken-img]][gitkraken-ref]   |
-|[![][windows-img]][windows-ref] |.                                   |[![][turboc++-img]][turboc++-ref] |[![][java-img]][java-ref] |[![][heroku-img]][heroku-ref]                 |[![][sourcetree-img]][sourcetree-ref] |
-|.                               |.                                   |[![][scratch-img]][scratch-ref]   |.                         |[![][vercel-img]][vercel-ref]                 |.                                     |
-|.                               |.                                   |.                                 |.                         |[![][githubpages-img]][githubpages-ref]       |.                                     |
+<!-- Others -->
+[css-ref]: https://www.w3.org/TR/CSS/
 
 <!-- Operating System -->
 [ubuntu-ref]: https://ubuntu.com/
@@ -216,7 +322,7 @@
 
 <!-- Deployment -->
 [render-ref]: https://render.com/
-[render-img]: https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white
+[render-img]: https://img.shields.io/badge/Render-17C987?style=for-the-badge&logo=render&logoColor=white
 
 [pythonanywhere-ref]: https://www.pythonanywhere.com/
 [pythonanywhere-img]: https://img.shields.io/badge/PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue
@@ -240,123 +346,63 @@
 [sourcetree-ref]: https://www.sourcetreeapp.com/
 [sourcetree-img]: https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white
 
+[mail-deploy-ref]: https://seylu.pythonanywhere.com/login/admin
 
-<br><br>
+[clone-templates-deploy-ref]: https://clone-templates.onrender.com/
 
-## 🎓 [HKUST - React](https://www.coursera.org/learn/front-end-react/) (completed)
+[wikipedia-clone-deploy-ref]: https://wikipedia-clone-seylu.herokuapp.com/
+[wikipedia-clone-demo-ref]: https://youtu.be/KSov2QSPx4s
 
-<br>
+[google-clone-deploy-ref]: https://google-clone-seylu.vercel.app/
+[google-clone-demo-ref]: https://youtu.be/FYXgJcMr4YQ
 
-[![React Certificate](./certificates/React%20Certificate.svg)](https://www.coursera.org/account/accomplishments/verify/5PEGWWFC6A29)
+[doggo-dash-deploy-ref]: https://seylu.github.io/doggo-dash/
+[doggo-dash-demo-ref]: https://youtu.be/kXCYEwcMD8I
 
-<br><br>
+[fiftyville-deploy-ref]: https://fiftyville.herokuapp.com/
+[fiftyville-demo-ref]: https://youtu.be/l2aBCjvdwhM
 
-## 🎓 [HKUST - Bootstrap 4](https://www.coursera.org/learn/bootstrap-4/) (completed)
+[pythonanywhere-deploy-img]: https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue
+[render-deploy-img]: https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white
+[heroku-deploy-img]: https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+[vercel-deploy-deploy-img]: https://img.shields.io/badge/View%20Deployment%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white
+[githubpages-deploy-img]: https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white
 
-<br>
+[youtube-demo-img]: https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 
-### 🚀 Projects
+<!-- Backend Framework -->
+[django-icon]: svg/technologies/django.svg "Django"
+[flask-icon]: svg/technologies/flask.svg "Flask"
+[express-icon]: svg/technologies/express.svg "Express"
 
-<br>
+<!-- Server/RunEnv -->
+[gunicorn-icon]: svg/technologies/gunicorn.svg "Gunicorn"
+[node-icon]: svg/technologies/node.svg "Node"
 
-- <code> Mail </code>&emsp;[[ View Deployment on PythonAnywhere ]](https://seylu.pythonanywhere.com/login/admin)
-    - Frontend: Bootstrap 4, Javascript Fetch, Async/Await
-    - Backend: Django
+<!-- Backend Scripting -->
+[python-icon]: svg/technologies/python.svg "Python"
+[javascript-icon]: svg/technologies/javascript.svg "JavaScript"
 
-<br>
+<!-- Template Engine -->
+[jinja-icon]: svg/technologies/jinja.svg "Jinja"
+[handlebars-icon]: svg/technologies/handlebars.svg "Handlebars"
 
-[![Bootstrap 4 Certificate](./certificates/Bootstrap4%20Certificate.svg)](https://www.coursera.org/account/accomplishments/verify/MLS52X3RV24C)
+<!-- Database -->
+[postgres-icon]: svg/technologies/postgres.svg "PostgreSQL"
+[sqlite-icon]: svg/technologies/sqlite.svg "SQlite"
 
-<br><br>
+<!-- Frontend Framework -->
+[bootstrap-icon]: svg/technologies/bootstrap.svg "Bootstrap"
+[material-icon]: svg/technologies/material.svg "Material"
 
-## 🎓 [Harvard - CS50w](https://cs50.harvard.edu/web/2020/) (currently taking)
+<!-- Frontend Library -->
+[jquery-icon]: svg/technologies/jquery.svg "JQuery"
 
-<br>
+<!-- Frontend -->
+[css-icon]: svg/technologies/css.svg "CSS"
+[html-icon]: svg/technologies/html.svg "HTML"
 
-### 🚀 Projects
-
-<br>
-
-- <code> Clone Templates </code>&emsp;[[ View Deployment on Render ]](https://clone-templates.onrender.com/)
-    - Frontend: Materialize
-    - Backend: Express, Node
-
-<br>
-
-- <code> Wikipedia Clone </code>&emsp;[[ View Deployment on Heroku ]](https://wikipedia-clone-seylu.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/KSov2QSPx4s)
-    - Frontend: Wikipedia HTML/CSS, Custom Javascript
-    - Backend: Django
-
-<br>
-
-- <code> Google Clone </code>&emsp;[[ View Deployment on Vercel ]](https://google-clone-seylu.vercel.app/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/FYXgJcMr4YQ)
-    - Frontend: Google HTML/CSS, Custom Javascript
-
-<br><br>
-
-## 🎓 [Harvard - CS50x](https://cs50.harvard.edu/x/2022/) (completed)
-
-<br>
-
-### 🚀 Projects
-
-<br>
-
-- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/kXCYEwcMD8I)
-    - Technology used: Scratch packaged with Turbowarp Packager
-
-<br>
-
-- <code> Fiftyville </code>&emsp;[[ View Deployment on Heroku ]](https://fiftyville.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/l2aBCjvdwhM)
-    - Frontend: Bootstrap 5, Bootswatch Sketchy, JQuery, AJAX
-    - Backend: Flask, Flask Blueprint
-
-<br>
-
-[![CS50x Certificate](./certificates/CS50x%20Certificate.svg)](https://certificates.cs50.io/f18555fa-40f9-42fd-9fe2-11a878c3cbf7.pdf?size=letter)
-
-<br><br>
-
-<a id="projects"></a>
-<hr>
-
-## 🚀 List of Deployed Projects and Project Demos
-
-<br>
-
-- <code> Mail </code>&emsp;[[ View Deployment on PythonAnywhere ]](https://seylu.pythonanywhere.com/login/admin)
-    - Frontend: Bootstrap 4, Javascript Fetch, Async/Await
-    - Backend: Django
-
-<br>
-
-- <code> Clone Templates </code>&emsp;[[ View Deployment on Render ]](https://clone-templates.onrender.com/)
-    - Frontend: Materialize
-    - Backend: Express, Node
-
-<br>
-
-- <code> Wikipedia Clone </code>&emsp;[[ View Deployment on Heroku ]](https://wikipedia-clone-seylu.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/KSov2QSPx4s)
-    - Frontend: Wikipedia HTML/CSS, Custom Javascript
-    - Backend: Django
-
-<br>
-
-- <code> Google Clone </code>&emsp;[[ View Deployment on Vercel ]](https://google-clone-seylu.vercel.app/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/FYXgJcMr4YQ)
-    - Frontend: Google HTML/CSS, Custom Javascript
-
-<br>
-
-- <code> Doggo Dash </code>&emsp;[[ View Deployment on Github Pages ]](https://seylu.github.io/doggo-dash/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/kXCYEwcMD8I)
-    - Technology used: Scratch packaged with Turbowarp Packager
-
-<br>
-
-- <code> Fiftyville </code>&emsp;[[ View Deployment on Heroku ]](https://fiftyville.herokuapp.com/)&emsp;[[ Watch Youtube Demo ]](https://youtu.be/l2aBCjvdwhM)
-    - Frontend: Bootstrap 5, Bootswatch Sketchy, JQuery, AJAX
-    - Backend: Flask, Flask Blueprint
-
-<br>
-
+<!-- Others -->
+[scratch-icon]: svg/technologies/scratch.svg "Scratch"
 
 
