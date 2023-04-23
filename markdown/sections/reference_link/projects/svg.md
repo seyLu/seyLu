@@ -32,4 +32,3 @@
 
 <!-- Others -->
 [scratch-icon]: /static/svg/technologies/scratch.svg "Scratch"
-
