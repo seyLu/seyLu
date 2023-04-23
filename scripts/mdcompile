@@ -1,0 +1,82 @@
+#! /bin/bash
+
+main() {
+    local input="main.md"
+    local output="compiled.md"
+    local dir="sections"
+
+    [[ $# -gt 0 ]] && {
+        local options=$( getopt -o i:o:d: --long input:,output:,directory: -- "$@")
+
+        [[ $? -ne 0 ]] && {
+            echo "Incorrect options provided"
+            exit 1
+        }
+
+        eval set -- "${options}"
+
+        while [[ $# -gt 0 ]]; do
+            case "$1" in
+                -i | --input) input="input/${2}.md"; shift 2 ;;
+                -o | --output) output="output/${2}.md"; shift 2 ;;
+                -d | --directory) dir="${2}"; shift 2 ;;
+                --) shift; break ;;
+                *) usage; break ;;
+            esac
+        done
+    }
+
+    if [[ -f "${input}" ]]; then
+        # Process the main controller markdown file
+        process "${input}" "${output}" "${dir}"
+    else
+        usage
+    fi
+}
+
+
+process() {
+    readonly input="$1"
+    readonly output="$2"
+    readonly dir="$3"
+
+    # Remove the old compiled file
+    [[ -f "${output}" ]] && rm "${output}"
+
+    # Read each line of the markdown file
+    while IFS= read -r line; do
+        # Check if line starts with "include"
+
+        if [[ "${line}" =~ ^#include ]]; then
+            # Extract the path and filename from the "include" line
+            local path=$(echo $line | cut -d' ' -f2 | sed 's/"//g')
+            local file="${dir}/${path}.md"
+
+            compile "${file}" "${output}"
+        fi
+    done < "${input}"
+}
+
+
+compile() {
+    local _file="$1"
+    local _output="$2"
+
+    if [[ -f "${_file}" ]]; then
+        while IFS= read file_line; do
+            echo "${file_line}" >> "${_output}"
+        done < "${_file}"
+
+        echo >> "$_output"
+    else
+        echo "Error: "${_file}" not found"
+    fi
+}
+
+
+function usage() {
+    echo "usage: WIP"
+}
+
+
+main "$@"

@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="#">
-        <img alt="MJ Sabit(seylu)" src="svg/seyLu-name.svg">
-    </a>
+    <img alt="MJ Sabit (seyLu)" src="/static/svg/seyLu-name.svg">
 </div>
 
 |                                   |                             |
