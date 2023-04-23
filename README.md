@@ -1,7 +1,5 @@
 <div align="center">
-    <a href="#">
-        <img alt="MJ Sabit(seylu)" src="svg/seyLu-name.svg">
-    </a>
+    <img alt="MJ Sabit (seyLu)" src="/static/svg/seyLu-name.svg">
 </div>
 
 |                                   |                             |
@@ -15,7 +13,8 @@
 <br>
 
 [![Most Used Languages](https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=5&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni)](https://github.com/seylu)
-[![seyLu's GitHub stats](https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&hide=issues,prs,stars&show_icons=true&theme=omni)](https://github.com/seylu)
+[![seyLu's GitHub stats](https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&hide=issues,stars&show_icons=true&theme=omni)](https://github.com/seylu)
+
 
 <br>
 
@@ -371,38 +370,36 @@
 [youtube-demo-img]: https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 
 <!-- Backend Framework -->
-[django-icon]: svg/technologies/django.svg "Django"
-[flask-icon]: svg/technologies/flask.svg "Flask"
-[express-icon]: svg/technologies/express.svg "Express"
+[django-icon]: /static/svg/technologies/django.svg "Django"
+[flask-icon]: /static/svg/technologies/flask.svg "Flask"
+[express-icon]: /static/svg/technologies/express.svg "Express"
 
 <!-- Server/RunEnv -->
-[gunicorn-icon]: svg/technologies/gunicorn.svg "Gunicorn"
-[node-icon]: svg/technologies/node.svg "Node"
+[gunicorn-icon]: /static/svg/technologies/gunicorn.svg "Gunicorn"
+[node-icon]: /static/svg/technologies/node.svg "Node"
 
 <!-- Backend Scripting -->
-[python-icon]: svg/technologies/python.svg "Python"
-[javascript-icon]: svg/technologies/javascript.svg "JavaScript"
+[python-icon]: /static/svg/technologies/python.svg "Python"
+[javascript-icon]: /static/svg/technologies/javascript.svg "JavaScript"
 
 <!-- Template Engine -->
-[jinja-icon]: svg/technologies/jinja.svg "Jinja"
-[handlebars-icon]: svg/technologies/handlebars.svg "Handlebars"
+[jinja-icon]: /static/svg/technologies/jinja.svg "Jinja"
+[handlebars-icon]: /static/svg/technologies/handlebars.svg "Handlebars"
 
 <!-- Database -->
-[postgres-icon]: svg/technologies/postgres.svg "PostgreSQL"
-[sqlite-icon]: svg/technologies/sqlite.svg "SQlite"
+[postgres-icon]: /static/svg/technologies/postgres.svg "PostgreSQL"
+[sqlite-icon]: /static/svg/technologies/sqlite.svg "SQlite"
 
 <!-- Frontend Framework -->
-[bootstrap-icon]: svg/technologies/bootstrap.svg "Bootstrap"
-[material-icon]: svg/technologies/material.svg "Material"
+[bootstrap-icon]: /static/svg/technologies/bootstrap.svg "Bootstrap"
+[material-icon]: /static/svg/technologies/material.svg "Material"
 
 <!-- Frontend Library -->
-[jquery-icon]: svg/technologies/jquery.svg "JQuery"
+[jquery-icon]: /static/svg/technologies/jquery.svg "JQuery"
 
 <!-- Frontend -->
-[css-icon]: svg/technologies/css.svg "CSS"
-[html-icon]: svg/technologies/html.svg "HTML"
+[css-icon]: /static/svg/technologies/css.svg "CSS"
+[html-icon]: /static/svg/technologies/html.svg "HTML"
 
 <!-- Others -->
-[scratch-icon]: svg/technologies/scratch.svg "Scratch"
-
-
+[scratch-icon]: /static/svg/technologies/scratch.svg "Scratch"
