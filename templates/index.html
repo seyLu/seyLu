@@ -2,31 +2,29 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>seyLu</title>
-    <link rel="stylesheet" href="static/css/github-markdown-light.css">
+    <link rel="stylesheet" href="static/css/github-markdown-light.css" />
     <style>
-    .markdown-body {
-        box-sizing: border-box;
-        min-width: 200px;
-        max-width: 980px;
-        margin: 0 auto;
-        padding: 45px;
-    }
-
-    @media (max-width: 767px) {
         .markdown-body {
-            padding: 15px;
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
         }
-    }
+
+        @media (max-width: 767px) {
+            .markdown-body {
+                padding: 15px;
+            }
+        }
     </style>
 </head>
 
 <body>
-    <main class="markdown-body">
-        {{ md | safe }}
-    </main>
+    <main class="markdown-body">{{ md | safe }}</main>
 </body>
 
 </html>
