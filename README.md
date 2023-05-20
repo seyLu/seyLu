@@ -1,12 +1,10 @@
-[![Bocchi Banner](/static/images/all_black_stylized.jpg)]()
+![Bocchi Banner](/static/images/all_black_stylized.jpg)
 
 <div align="center">
-    <a href="">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=5DA4BA&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
-            <img alt="Full Stack" src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=131512&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
-        </picture>
-    </a>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=5DA4BA&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
+        <img alt="Full Stack" src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=131512&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
+    </picture>
     <p></p>
     <div>
         <a href="mailto:seyluofficial@gmail.com">
@@ -133,20 +131,14 @@
 <br>
 
 <div align="center">
-    <a href="">
-        <img height="140" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&hide_title=true&theme=react">
-    </a>
-    <a href="">
-        <img height="140" alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&hide_title=true&theme=react">
-    </a>
+    <img height="135" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&hide_title=true&theme=react">
+    <img height="135" alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&hide_title=true&theme=react">
 </div>
 
 <br>
 
 <div align="center">
-    <a href="">
-        <img src="https://count.getloli.com/get/@:seylu?theme=asoul" alt="seyLu hit count">
-    </a>
+    <img src="https://count.getloli.com/get/@:seylu?theme=asoul" alt="seyLu hit count">
 </div>
 
 [gmail-ref]: mailto:seyluofficial@gmail.com
