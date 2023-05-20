@@ -1,9 +1,4 @@
 #include "__header__"
-#include "stats"
-
-#include "technologies/backend"
-#include "technologies/frontend"
-#include "technologies/other"
 
 #include "project/__header__"
 #include "project/mail"
@@ -12,6 +7,10 @@
 #include "project/google-clone"
 #include "project/doggo-dash"
 #include "project/fiftyville"
+
+#include "stats"
+
+#include "footer"
 
 #include "reference_link/gmail"
 

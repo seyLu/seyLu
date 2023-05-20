@@ -1,50 +1,32 @@
+[![Bocchi Banner](/static/images/all_black_stylized.jpg)]()
+
 <div align="center">
-    <img alt="MJ Sabit (seyLu)" src="/static/svg/seyLu-name.svg">
+    <a href="">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=5DA4BA&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
+            <img alt="Full Stack" src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=131512&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
+        </picture>
+    </a>
+    <p></p>
+    <div>
+        <a href="mailto:seyluofficial@gmail.com">
+            <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
+        </a>
+        &nbsp;
+        <a href="https://seylu.github.io/resume/mj_sabit_resume.pdf">
+            <img alt="Resume" src="https://img.shields.io/badge/Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white">
+        </a>
+        &nbsp;
+        <a href="https://twitch.com/seylu_dev">
+            <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+        </a>
+    </div>
+    <h3>
+        <a href="https://seylu.github.io">
+            セイル
+        </a>
+    </h3>
 </div>
-
-|                                   |                             |
-|-----------------------------------|-----------------------------|
-|<strong>Business Inquiries</strong>| [![][gmail-img]][gmail-ref] |
-
-<br>
-
-### [ ⬇️⬇️ Jump to list of Deployed Projects ⬇️⬇️ ](#projects)
-
-<br>
-
-[![Most Used Languages](https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&custom_title=Most%20Used%20Languages&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni)](https://github.com/seylu)
-[![GitHub Stats](https://github-readme-stats-seylu.vercel.app/api?username=seylu&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&theme=omni)](https://github.com/seylu)
-
-<br>
-
-## 🛠 Back-End Technologies
-|Server/RunEnv                     |Scripting                             |Framework                       |Template Engine                       |Database                          |Tools                                     |
-|----------------------------------|--------------------------------------|--------------------------------|--------------------------------------|----------------------------------|------------------------------------------|
-|[![][wsgi-img]][wsgi-ref]         |[![][python-img]][python-ref]         |[![][django-img]][django-ref]   |[![][jinja-img]][jinja-ref]           |[![][postgres-img]][postgres-ref] |[![][postman-img]][postman-ref]           |
-|[![][gunicorn-img]][gunicorn-ref] |[![][bash-img]][bash-ref]             |[![][flask-img]][flask-ref]     |[![][handlebars-img]][handlebars-ref] |[![][mysql-img]][mysql-ref]       |[![][diagrams.net-img]][diagrams.net-ref] |
-|[![][node-img]][node-ref]         |[![][javascript-img]][javascript-ref] |[![][express-img]][express-ref] |[![][twig-img]][twig-ref]             |[![][sqlite-img]][sqlite-ref]     |[![][pgadmin-img]][pgadmin-ref]           |
-|[![][apache-img]][apache-ref]     |[![][php-img]][php-ref]               |[![][laravel-img]][laravel-ref] |[![][blade-img]][blade-ref]           |.                                 |[![][phpmyadmin-img]][phpmyadmin-ref]     |
-
-<br>
-
-## 🛠 Front-End Technologies
-
-|Markup                            |Preprocessor              |Framework                           |Library                       |Task Runner                 |Package Manager           |
-|----------------------------------|--------------------------|------------------------------------|------------------------------|----------------------------|--------------------------|
-|[![][html-img]][html-ref]         |[![][sass-img]][sass-ref] |[![][bootstrap-img]][bootstrap-ref] |[![][react-img]][react-ref]   |[![][gulp-img]][gulp-ref]   |[![][npm-img]][npm-ref]   |
-|[![][markdown-img]][markdown-ref] |[![][less-img]][less-ref] |[![][material-img]][material-ref]   |[![][redux-img]][redux-ref]   |[![][grunt-img]][grunt-ref] |[![][yarn-img]][yarn-ref] |
-|[![][svg-img]][svg-ref]           |.                         |.                                   |[![][jquery-img]][jquery-ref] |.                           |.                         |
-
-<br>
-
-## ⚙️ Other Technologies
-|Operating System                |Text Editor                         |Integrated DevEnv                 |Programming Language      |Deployment                                    |Version Control                       |
-|--------------------------------|------------------------------------|----------------------------------|--------------------------|----------------------------------------------|--------------------------------------|
-|[![][ubuntu-img]][ubuntu-ref]   |[![][sublime-img]][sublime-ref]     |[![][vscode-img]][vscode-ref]     |[![][c-img]][c-ref]       |[![][render-img]][render-ref]                 |[![][git-img]][git-ref]               |
-|[![][linux-img]][linux-ref]     |[![][notepad++-img]][notepad++-ref] |[![][netbeans-img]][netbeans-ref] |[![][c++-img]][c++-ref]   |[![][pythonanywhere-img]][pythonanywhere-ref] |[![][gitkraken-img]][gitkraken-ref]   |
-|[![][windows-img]][windows-ref] |.                                   |[![][turboc++-img]][turboc++-ref] |[![][java-img]][java-ref] |[![][heroku-img]][heroku-ref]                 |[![][sourcetree-img]][sourcetree-ref] |
-|.                               |.                                   |[![][scratch-img]][scratch-ref]   |.                         |[![][vercel-img]][vercel-ref]                 |.                                     |
-|.                               |.                                   |.                                 |.                         |[![][githubpages-img]][githubpages-ref]       |.                                     |
 
 <br>
 
@@ -57,7 +39,6 @@
     > gmail-like full stack mail application written in django
 
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">][mail-deploy-ref]
-
 
     [![][django-icon]][django-ref]&nbsp;
     [![][gunicorn-icon]][gunicorn-ref]&nbsp;
@@ -148,6 +129,25 @@
     [![][html-icon]][html-ref]&nbsp;
 
 <br>
+
+<br>
+
+<div align="center">
+    <a href="">
+        <img height="140" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&hide_title=true&theme=react">
+    </a>
+    <a href="">
+        <img height="140" alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&hide_title=true&theme=react">
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="">
+        <img src="https://count.getloli.com/get/@:seylu?theme=asoul" alt="seyLu hit count">
+    </a>
+</div>
 
 [gmail-ref]: mailto:seyluofficial@gmail.com
 [gmail-img]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
