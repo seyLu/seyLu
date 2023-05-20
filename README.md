@@ -3,9 +3,141 @@
 <div align="center">
     <a href="">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=5DA4BA&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact">
-            <img alt="Full Stack" src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=131512&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact">
+            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=5DA4BA&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
+            <img alt="Full Stack" src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=131512&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
         </picture>
+    </a>
+    <p></p>
+    <div>
+        <a href="mailto:seyluofficial@gmail.com">
+            <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
+        </a>
+        <a href="https://seylu.github.io/resume/mj_sabit_resume.pdf">
+            <img alt="Resume" src="https://img.shields.io/badge/Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white">
+        </a>
+        <a href="https://twitch.com/seylu_dev">
+            <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
+        </a>
+    </div>
+    <h3>
+        <a href="https://seylu.github.io">
+            セイル
+        </a>
+    </h3>
+</div>
+
+<a id="projects"></a>
+
+## 🚀 Deployed Projects
+
+- ### `Mail`
+
+    > gmail-like full stack mail application written in django
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">][mail-deploy-ref]
+
+    [![][django-icon]][django-ref]&nbsp;
+    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [![][python-icon]][python-ref]&nbsp;
+    [![][sqlite-icon]][sqlite-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][bootstrap-icon]][bootstrap-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Clone Templates`
+
+    > full stack express application that hosts a collection of templates used for building full stack clones
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">][clone-templates-deploy-ref]
+
+    [![][express-icon]][express-ref]&nbsp;
+    [![][node-icon]][node-ref]&nbsp;
+    [![][handlebars-icon]][handlebars-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][material-icon]][material-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Wikipedia Clone`
+
+    > wikipedia-like full stack wiki application written in django
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="275" height="30">][wikipedia-clone-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][wikipedia-clone-demo-ref]
+
+    [![][django-icon]][django-ref]&nbsp;
+    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [![][python-icon]][python-ref]&nbsp;
+    [![][sqlite-icon]][sqlite-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Google Clone`
+
+    > google-like static search application written in javascript
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="275" height="30">][google-clone-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][google-clone-demo-ref]
+
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Doggo Dash`
+
+    > game written in scratch and packaged using turbowarp
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" width="310" height="30">][doggo-dash-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][doggo-dash-demo-ref]
+
+    [![][scratch-icon]][scratch-ref]&nbsp;
+    [![][javascript-icon]][javascript-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+- ### `Fiftyville`
+
+    > inspired from a sql game of the same name is a full stack app/game written in flask
+
+    [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="275" height="30">][fiftyville-deploy-ref]
+    [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][fiftyville-demo-ref]
+
+    [![][flask-icon]][flask-ref]&nbsp;
+    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [![][jinja-icon]][jinja-ref]&nbsp;
+    [![][python-icon]][python-ref]&nbsp;
+    [![][postgres-icon]][postgres-ref]&nbsp;
+    [![][sqlite-icon]][sqlite-ref]&nbsp;
+    [![][jquery-icon]][jquery-ref]&nbsp;
+    [![][css-icon]][css-ref]&nbsp;
+    [![][html-icon]][html-ref]&nbsp;
+
+<br>
+
+<br>
+
+<div align="center">
+    <img alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&custom_title=Most%20Used%20Languages&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni">
+    <img height="165" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&theme=omni">
+</div>
+
+<br>
+
+<div align="center">
+    <a href="">
+        <img src="https://count.getloli.com/get/@:seylu?theme=asoul" alt="seyLu hit count">
     </a>
 </div>
 
