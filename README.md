@@ -12,9 +12,11 @@
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
         </a>
+        &nbsp;
         <a href="https://seylu.github.io/resume/mj_sabit_resume.pdf">
             <img alt="Resume" src="https://img.shields.io/badge/Resume-00A98F.svg?style=for-the-badge&logo=aboutdotme&logoColor=white">
         </a>
+        &nbsp;
         <a href="https://twitch.com/seylu_dev">
             <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
         </a>
@@ -25,6 +27,8 @@
         </a>
     </h3>
 </div>
+
+<br>
 
 <a id="projects"></a>
 
@@ -129,8 +133,12 @@
 <br>
 
 <div align="center">
-    <img alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&custom_title=Most%20Used%20Languages&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni">
-    <img height="165" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&theme=omni">
+    <a href="">
+        <img alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&custom_title=Most%20Used%20Languages&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&theme=omni">
+    </a>
+    <a href="">
+        <img height="165" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&custom_title=Github%20Stats&count_private=true&include_all_commits=true&hide=issues,stars&show_icons=true&theme=omni">
+    </a>
 </div>
 
 <br>
