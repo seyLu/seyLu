@@ -7,7 +7,7 @@
     "watch": "nodemon --ext md --watch markdown/sections --exec \"bash scripts/readmee\""
   },
   "keywords": [],
-  "author": "seyLu <seyluofficial@gmail.com> (https://github.com/seyLu)",
+  "author": "seyLu (https://github.com/seyLu)",
   "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.22"
