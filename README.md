@@ -53,9 +53,7 @@
 
 </div>
 
-<!-- comment -->
-<script src="https://unpkg.com/mermaid@9.4.0/dist/mermaid.min.js" defer></script>
-<!-- comment -->
+<!-- <script src="https://unpkg.com/mermaid@9.4.0/dist/mermaid.min.js" defer></script> -->
 
 <br>
 
