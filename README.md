@@ -27,7 +27,7 @@
 </div>
 
 
-<div align=center>
+<div align=center width="100%">
 
 ```mermaid
     gitGraph
