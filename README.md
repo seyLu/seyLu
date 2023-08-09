@@ -34,8 +34,7 @@
         commit id: "age 13" type: HIGHLIGHT tag: "Started coding with C++"
         commit
         commit
-        branch startups
-        branch opensource
+        branch startups order: 2
         checkout startups
         commit id: "DICE205" type: HIGHLIGHT tag: "Dev Intern"
         commit
@@ -43,6 +42,8 @@
         commit
         checkout main
         merge startups
+        commit
+        branch opensource order: 1
         checkout opensource
         commit id: "medrec" type: HIGHLIGHT tag: "Dev Volunteer"
         commit
@@ -52,7 +53,9 @@
 
 </div>
 
+<!-- comment -->
 <script src="https://unpkg.com/mermaid@9.4.0/dist/mermaid.min.js" defer></script>
+<!-- comment -->
 
 <br>
 
