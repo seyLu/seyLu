@@ -1,7 +1,5 @@
 #include "__header__"
 
-#include "mermaid"
-
 #include "project/__header__"
 #include "project/mail"
 #include "project/clone-templates"
