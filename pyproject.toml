@@ -38,4 +38,5 @@ implicit_reexport = "True"
 exclude = [
     # TOML basic string (double-quotes, backslash and other characters need escaping)
     # TOML literal string (single-quotes, no escaping necessary)
+    'app\.py$'
 ]
