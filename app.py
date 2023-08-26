@@ -28,5 +28,5 @@ if __name__ == "__main__":
     app.debug = True
 
     server = Server(app.wsgi_app)
-    server.watch("markdown/", "bash scripts/readmee")
+    server.watch("markdown/", "python scripts/readme.py")
     server.serve()
