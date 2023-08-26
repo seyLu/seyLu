@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-from markdown import markdown # type: ignore[attr-defined]
+from markdown import markdown  # type: ignore[attr-defined]
 
 app = Flask(__name__)
 
