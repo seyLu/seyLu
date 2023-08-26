@@ -1,4 +1,5 @@
 from flask import Flask, render_template
+from livereload import Server
 
 from markdown import markdown
 
@@ -24,5 +25,8 @@ def index():
 
 
 if __name__ == "__main__":
-    app.config["SERVER_NAME"] = "flask:5000"
-    app.run()
+    app.debug = True
+
+    server = Server(app.wsgi_app)
+    server.watch("markdown/", "bash scripts/readmee")
+    server.serve()
