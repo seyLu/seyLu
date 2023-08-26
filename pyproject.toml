@@ -32,6 +32,7 @@ profile = "black"
 
 [tool.mypy]
 strict = "True"
+implicit_reexport = "True"
 
 # Exclude type checking on files/dirs.
 exclude = [

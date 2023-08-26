@@ -54,15 +54,11 @@ jobs:
       - name: Black Formatter
         run: black . --diff --check
 
-      - name: Mypy Install Types
+      - name: Mypy Type Checker
         run: >
           mypy
           --install-types
           --non-interactive
-
-      - name: Mypy Type Check
-        run: >
-          mypy
           --check-untyped-defs
           --ignore-missing-imports
           .
