@@ -1,6 +1,6 @@
 from flask import Flask, render_template
 
-import markdown
+from markdown import markdown
 
 app = Flask(__name__)
 
@@ -12,7 +12,7 @@ def index():
 
     return render_template(
         "index.html",
-        md=markdown.markdown(
+        md=markdown(
             md,
             extensions=[
                 "pymdownx.superfences",
