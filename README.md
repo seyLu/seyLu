@@ -36,14 +36,20 @@
 
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">][mail-deploy-ref]
 
-    [<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>][django-ref]
-    [![][gunicorn-icon]][gunicorn-ref]
-    [![][python-icon]][python-ref]&nbsp;
-    [![][sqlite-icon]][sqlite-ref]&nbsp;
-    [![][javascript-icon]][javascript-ref]&nbsp;
-    [![][bootstrap-icon]][bootstrap-ref]&nbsp;
-    [![][css-icon]][css-ref]&nbsp;
-    [![][html-icon]][html-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>]
+    [django-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>]
+    [python-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>]
+    [sqlite-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>]
+    [javascript-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>]
+    [bootstrap-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>]
+    [css-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>]
+    [html-ref]
 
 <br>
 
@@ -53,13 +59,18 @@
 
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">][clone-templates-deploy-ref]
 
-    [![][express-icon]][express-ref]&nbsp;
-    [![][node-icon]][node-ref]&nbsp;
-    [![][handlebars-icon]][handlebars-ref]&nbsp;
-    [![][javascript-icon]][javascript-ref]&nbsp;
-    [![][material-icon]][material-ref]&nbsp;
-    [![][css-icon]][css-ref]&nbsp;
-    [![][html-icon]][html-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" title="Express"></code>]
+    [express-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" title="Node"></code>]
+    [node-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>]
+    [javascript-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" title="Material"></code>]
+    [material-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>]
+    [css-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>]
+    [html-ref]
 
 <br>
 
@@ -70,13 +81,18 @@
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="275" height="30">][wikipedia-clone-deploy-ref]
     [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][wikipedia-clone-demo-ref]
 
-    [![][django-icon]][django-ref]&nbsp;
-    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
-    [![][python-icon]][python-ref]&nbsp;
-    [![][sqlite-icon]][sqlite-ref]&nbsp;
-    [![][javascript-icon]][javascript-ref]&nbsp;
-    [![][css-icon]][css-ref]&nbsp;
-    [![][html-icon]][html-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>]
+    [django-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>]
+    [python-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>]
+    [sqlite-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>]
+    [javascript-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>]
+    [css-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>]
+    [html-ref]
 
 <br>
 
@@ -87,9 +103,12 @@
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" width="275" height="30">][google-clone-deploy-ref]
     [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][google-clone-demo-ref]
 
-    [![][javascript-icon]][javascript-ref]&nbsp;
-    [![][css-icon]][css-ref]&nbsp;
-    [![][html-icon]][html-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>]
+    [javascript-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>]
+    [css-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>]
+    [html-ref]
 
 <br>
 
@@ -100,10 +119,12 @@
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" width="310" height="30">][doggo-dash-deploy-ref]
     [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][doggo-dash-demo-ref]
 
-    [![][scratch-icon]][scratch-ref]&nbsp;
-    [![][javascript-icon]][javascript-ref]&nbsp;
-    [![][css-icon]][css-ref]&nbsp;
-    [![][html-icon]][html-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>]
+    [javascript-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>]
+    [css-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>]
+    [html-ref]
 
 <br>
 
@@ -114,15 +135,22 @@
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="275" height="30">][fiftyville-deploy-ref]
     [<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][fiftyville-demo-ref]
 
-    [![][flask-icon]][flask-ref]&nbsp;
-    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
-    [![][jinja-icon]][jinja-ref]&nbsp;
-    [![][python-icon]][python-ref]&nbsp;
-    [![][postgres-icon]][postgres-ref]&nbsp;
-    [![][sqlite-icon]][sqlite-ref]&nbsp;
-    [![][jquery-icon]][jquery-ref]&nbsp;
-    [![][css-icon]][css-ref]&nbsp;
-    [![][html-icon]][html-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" title="Flask"></code>]
+    [flask-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>]
+    [python-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=postgres&perline=1&theme=light" title="Postgres"></code>]
+    [postgres-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>]
+    [sqlite-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=jquery&perline=1&theme=light" title="JQuery"></code>]
+    [jquery-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>]
+    [bootstrap-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>]
+    [css-ref]
+    [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>]
+    [html-ref]
 
 <br>
 
