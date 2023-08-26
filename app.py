@@ -1,12 +1,12 @@
 from flask import Flask, render_template
 
-from markdown import markdown
+from markdown import markdown # type: ignore[attr-defined]
 
 app = Flask(__name__)
 
 
 @app.route("/")
-def index():
+def index() -> str:
     with open("README.md") as f:
         md = f.read()
 
