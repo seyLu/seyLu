@@ -56,8 +56,9 @@ jobs:
 
       - name: Mypy Type Checker
         run: >
-          mypy .
+          mypy
           --install-types
           --non-interactive
+          .
           --check-untyped-defs
           --ignore-missing-imports
