@@ -1,5 +1,4 @@
 from flask import Flask, render_template
-from pymdownx import superfences
 
 import markdown
 
@@ -20,17 +19,6 @@ def index():
                 "codehilite",
                 "tables",
             ],
-            extension_configs={
-                "pymdownx.superfences": {
-                    "custom_fences": [
-                        {
-                            "name": "mermaid",
-                            "class": "mermaid",
-                            "format": superfences.fence_div_format,
-                        }
-                    ]
-                }
-            },
         ),
     )
 
