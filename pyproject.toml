@@ -31,6 +31,7 @@ profile = "black"
 
 
 [tool.mypy]
+ignore_missing_imports = "True"
 # Exclude type checking on files/dirs.
 exclude = [
     # TOML basic string (double-quotes, backslash and other characters need escaping)
