@@ -36,8 +36,8 @@
 
     [<img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">][mail-deploy-ref]
 
-    [![][django-icon]][django-ref]&nbsp;
-    [![][gunicorn-icon]][gunicorn-ref]&nbsp;
+    [<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>][django-ref]
+    [![][gunicorn-icon]][gunicorn-ref]
     [![][python-icon]][python-ref]&nbsp;
     [![][sqlite-icon]][sqlite-ref]&nbsp;
     [![][javascript-icon]][javascript-ref]&nbsp;
@@ -359,7 +359,7 @@
 [youtube-demo-img]: https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 
 <!-- Backend Framework -->
-[django-icon]: /static/svg/technologies/django.svg "Django"
+[django-icon]: https://skillicons.dev/icons?i=django&perline=1&theme=light "Django"
 [flask-icon]: /static/svg/technologies/flask.svg "Flask"
 [express-icon]: /static/svg/technologies/express.svg "Express"
 

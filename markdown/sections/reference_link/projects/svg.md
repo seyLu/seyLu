@@ -1,5 +1,5 @@
 <!-- Backend Framework -->
-[django-icon]: /static/svg/technologies/django.svg "Django"
+[django-icon]: https://skillicons.dev/icons?i=django&perline=1&theme=light "Django"
 [flask-icon]: /static/svg/technologies/flask.svg "Flask"
 [express-icon]: /static/svg/technologies/express.svg "Express"
 
