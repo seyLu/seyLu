@@ -1,7 +1,7 @@
 from flask import Flask, render_template
+from pymdownx import superfences
 
 import markdown
-from pymdownx import superfences
 
 app = Flask(__name__)
 
