@@ -1,27 +1,26 @@
-<h3>🔷 Clone Templates</h3>
-<blockquote>full stack express application that hosts a collection of templates used for building full stack clones</blockquote>
-
-<p>
+<h2><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://clone-templates.onrender.com/">
-        <img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">
+        <kbd><kbd>⚪ View deployment</kbd> on Render</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>A full-stack Express application that serves as a repository for a collection of templates designed for creating full-stack clones of popular web applications. It simplifies the development process by providing pre-designed templates for various functionalities, accelerating the creation of web application prototypes</blockquote>
+
+<p align="center">
     <a href="https://expressjs.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" title="Express"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://nodejs.org/en/">
         <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" title="Node"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://material.io/">
         <code><img height="25" src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" title="Material"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>

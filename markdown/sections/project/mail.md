@@ -1,30 +1,29 @@
-<h3>🔷 Mail</h3>
-<blockquote>gmail-like full stack mail application written in django</blockquote>
-
-<p>
+<h2><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.pythonanywhere.com/login/admin">
-        <img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">
+        <kbd><kbd>⚪ View deployment</kbd> on PythonAnywhere</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>A full-stack mail application, inspired by Gmail, built using Django. It offers users a unified platform to manage multiple email accounts with a user-friendly interface.</blockquote>
+
+<p align="center">
     <a href="https://www.djangoproject.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.sqlite.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://getbootstrap.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>

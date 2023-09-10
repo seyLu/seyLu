@@ -1,7 +1,7 @@
-![Bocchi Banner](/static/images/all_black_stylized.jpg)
+![Bocchi Banner](/static/images/smug_chibi_nijika.jpg)
 
 <div align="center">
-    <samp><h2>I code stuff live on Twitch sometimes.</h2></samp>
+    <samp><h2>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
     <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >

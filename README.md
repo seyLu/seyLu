@@ -1,7 +1,7 @@
 ![Bocchi Banner](/static/images/smug_chibi_nijika.jpg)
 
 <div align="center">
-    <samp><h2>I code stuff live on Twitch sometimes.</h2></samp>
+    <samp><h2>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
     <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
@@ -26,40 +26,39 @@
 
 <a id="projects"></a>
 <h3 align="center">--&nbsp;&nbsp;🚀 Deployed Projects&nbsp;&nbsp;--</h3>
-<details>
+<details open>
 <summary align="center">
     <kbd><kbd>Click</kbd> to view deployed projects</kbd>
     <br>
     <br>
 </summary>
 
-<h3>🔷 Mail</h3>
-<blockquote>gmail-like full stack mail application written in django</blockquote>
-
-<p>
+<h2><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.pythonanywhere.com/login/admin">
-        <img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">
+        <kbd><kbd>⚪ View deployment</kbd> on PythonAnywhere</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>A full-stack mail application, inspired by Gmail, built using Django. It offers users a unified platform to manage multiple email accounts with a user-friendly interface.</blockquote>
+
+<p align="center">
     <a href="https://www.djangoproject.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.sqlite.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://getbootstrap.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>
@@ -67,30 +66,29 @@
 
 <br>
 
-<h3>🔷 Clone Templates</h3>
-<blockquote>full stack express application that hosts a collection of templates used for building full stack clones</blockquote>
-
-<p>
+<h2><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://clone-templates.onrender.com/">
-        <img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">
+        <kbd><kbd>⚪ View deployment</kbd> on Render</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>A full-stack Express application that serves as a repository for a collection of templates designed for creating full-stack clones of popular web applications. It simplifies the development process by providing pre-designed templates for various functionalities, accelerating the creation of web application prototypes</blockquote>
+
+<p align="center">
     <a href="https://expressjs.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" title="Express"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://nodejs.org/en/">
         <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" title="Node"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://material.io/">
         <code><img height="25" src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" title="Material"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>
@@ -98,30 +96,29 @@
 
 <br>
 
-<h3>🔷 Wikipedia Clone</h3>
-<blockquote>wikipedia-like full stack wiki application written in django</blockquote>
-
-<p>
+<h2><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/KSov2QSPx4s">
-        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>A full-stack wiki application built with Django, offers a Wikipedia-like platform where users can collaboratively create, edit, and organize knowledge articles on a wide range of topics, fostering information sharing and community-driven content development.</blockquote>
+
+<p align="center">
     <a href="https://www.djangoproject.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.sqlite.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>
@@ -129,21 +126,20 @@
 
 <br>
 
-<h3>🔷 Google Clone</h3>
-<blockquote>google-like static search application written in javascript</blockquote>
-
-<p>
+<h2><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/FYXgJcMr4YQ">
-        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>Recreating the front-end magic of Google Search, this static web application in JavaScript delivers a familiar and efficient user experience for searching the web, mirroring the interface of the world's most popular search engine.</blockquote>
+
+<p align="center">
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>
@@ -151,24 +147,23 @@
 
 <br>
 
-<h3>🔷 Doggo Dash</h3>
-<blockquote>game written in scratch and packaged using turbowarp</blockquote>
-
-<p>
+<h2><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/doggo-dash/">
-        <img src="https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" width="310" height="30">
-    </a>
+        <kbd><kbd>⚪ View deployment</kbd> on Github Pages</kbd>
+    </a>&nbsp;
     <a href="https://youtu.be/kXCYEwcMD8I">
-        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>Embark on an exciting 2D adventure in this Scratch-based game where you control a tenacious dog, skillfully navigating through a world filled with mischievous monsters. Packaged using TurboWarp, this game promises a thrilling and interactive experience.</blockquote>
+
+<p align="center">
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>
@@ -176,36 +171,35 @@
 
 <br>
 
-<h3>🔷 Fiftyville</h3>
-<blockquote>inspired from a sql game of the same name is a full stack app/game written in flask</blockquote>
-
-<p>
+<h2><samp>🔷 Fiftyville</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/l2aBCjvdwhM">
-        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
     </a>
-</p>
-<p>
+</h2>
+<blockquote>Bringing the world of crime mystery and SQL learning together, 'Fiftyville' is a captivating full-stack web application game developed in Flask. Dive into a thrilling adventure where you solve crimes while mastering SQL concepts, making learning both engaging and fun.</blockquote>
+
+<p align="center">
     <a href="https://flask.palletsprojects.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" title="Flask"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.postgresql.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=postgres&perline=1&theme=light" title="Postgres"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.sqlite.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://jquery.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=jquery&perline=1&theme=light" title="JQuery"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://getbootstrap.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>
+    </a>&nbsp;
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>
