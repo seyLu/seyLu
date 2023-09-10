@@ -1,7 +1,7 @@
 from flask import Flask, render_template
 from livereload import Server
 
-from markdown import markdown
+from markdown import markdown  # type: ignore[attr-defined]
 
 app = Flask(__name__)
 
