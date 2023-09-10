@@ -1,7 +1,7 @@
 ![Bocchi Banner](/static/images/all_black_stylized.jpg)
 
 <div align="center">
-    <h3><big><big>Backend Software Engineer</big></big></h3>
+    <h3>I stream <code>live coding</code> in twitch sometimes.</h3>
     <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
@@ -25,13 +25,13 @@
 <br>
 
 <a id="projects"></a>
-<h3 align="center">--&nbsp;&nbsp; <big>🚀 Deployed Projects</big> &nbsp;&nbsp;--</h3>
+<h3 align="center">--&nbsp;&nbsp;🚀 Deployed Projects&nbsp;&nbsp;--</h3>
 <details open>
 <summary align="center">
     <kbd><kbd>Click</kbd> to view deployed projects</kbd>
 </summary>
 
-<h3> 🔷 Mail</h3>
+<h3><small>🔷</small> Mail</h3>
 <blockquote>gmail-like full stack mail application written in django</blockquote>
 
 <p>
@@ -65,34 +65,65 @@
 
 <br>
 
-### Clone Templates
+<h3><small>🔷</small> Clone Templates</h3>
+<blockquote>full stack express application that hosts a collection of templates used for building full stack clones</blockquote>
 
-> full stack express application that hosts a collection of templates used for building full stack clones
-
-[<img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">][clone-templates-deploy-ref]
-
-[<code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" title="Express"></code>][express-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" title="Node"></code>][node-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>][javascript-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" title="Material"></code>][material-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>][css-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
+<p>
+    <a href="https://clone-templates.onrender.com/">
+        <img src="https://img.shields.io/badge/View%20Deployment%20on%20Render-17C987?style=for-the-badge&logo=render&logoColor=white" width="275" height="30">
+    </a>
+</p>
+<p>
+    <a href="https://expressjs.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" title="Express"></code>
+    </a>
+    <a href="https://nodejs.org/en/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" title="Node"></code>
+    </a>
+    <a href="https://www.javascript.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
+    </a>
+    <a href="https://material.io/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" title="Material"></code>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
+    </a>
+</p>
 
 <br>
 
-### Wikipedia Clone
+<h3><small>🔷</small> Wikipedia Clone</h3>
+<blockquote>wikipedia-like full stack wiki application written in django</blockquote>
 
-> wikipedia-like full stack wiki application written in django
-
-
-[<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][wikipedia-clone-demo-ref]
-
-[<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>][django-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>][python-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>][sqlite-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>][javascript-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>][css-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
+<p>
+    <a href="https://youtu.be/KSov2QSPx4s">
+        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+    </a>
+</p>
+<p>
+    <a href="https://www.djangoproject.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
+    </a>
+    <a href="https://www.python.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
+    </a>
+    <a href="https://www.sqlite.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
+    </a>
+    <a href="https://www.javascript.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
+    </a>
+</p>
 
 <br>
 
@@ -143,7 +174,6 @@
 </div>
 
 <br>
-
 
 <br>
 

@@ -1,7 +1,7 @@
 ![Bocchi Banner](/static/images/all_black_stylized.jpg)
 
 <div align="center">
-    <h3><big><big>Backend Software Engineer</big></big></h3>
+    <h3>I stream <code>live coding</code> in twitch sometimes.</h3>
     <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
