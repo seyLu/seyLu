@@ -30,8 +30,9 @@ unfixable = ["B"]
 
 
 [tool.mypy]
-strict = "True"
-implicit_reexport = "True"
+strict = true
+implicit_reexport = true
+check_untyped_defs = true
 
 # Exclude type checking on files/dirs
 exclude = [
