@@ -1,12 +1,8 @@
 ![Bocchi Banner](/static/images/all_black_stylized.jpg)
 
 <div align="center">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=5DA4BA&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
-        <img alt="Full Stack" src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=40&duration=3000&pause=1000&color=131512&center=true&vCenter=true&width=600&lines=Full+Stack;Python%2FDjango%2FFlask;JavaScript%2FExpress%2FReact;PHP%2FLaravel%2FJQuery">
-    </picture>
-    <p></p>
-    <div>
+    <h3><big><big>Backend Software Engineer</big></big></h3>
+    <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
         </a>
@@ -18,7 +14,7 @@
         <a href="https://twitch.com/seylu_dev">
             <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
         </a>
-    </div>
+    </p>
     <h3>
         <a href="https://seylu.github.io">
             セイル
@@ -26,23 +22,46 @@
     </h3>
 </div>
 
+<br>
+
 <a id="projects"></a>
+<h3 align="center">--&nbsp;&nbsp; <big>🚀 Deployed Projects</big> &nbsp;&nbsp;--</h3>
+<details open>
+<summary align="center">
+    <kbd><kbd>Click</kbd> to view deployed projects</kbd>
+</summary>
 
-## 🚀 Deployed Projects
+<h3> 🔷 Mail</h3>
+<blockquote>gmail-like full stack mail application written in django</blockquote>
 
-### Mail
-
-> gmail-like full stack mail application written in django
-
-[<img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">][mail-deploy-ref]
-
-[<code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>][django-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>][python-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>][sqlite-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>][javascript-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>][bootstrap-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>][css-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
+<p>
+    <a href="https://seylu.pythonanywhere.com/login/admin">
+        <img src="https://img.shields.io/badge/View%20Deployment%20on%20PythonAnywhere-FFD43B?style=for-the-badge&logo=python&logoColor=blue" width="350" height="30">
+    </a>
+</p>
+<p>
+    <a href="https://www.djangoproject.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
+    </a>
+    <a href="https://www.python.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
+    </a>
+    <a href="https://www.sqlite.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
+    </a>
+    <a href="https://www.javascript.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
+    </a>
+    <a href="https://getbootstrap.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
+    </a>
+</p>
 
 <br>
 
@@ -118,6 +137,13 @@
 [<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
 
 <br>
+
+<hr>
+</details>
+</div>
+
+<br>
+
 
 <br>
 
@@ -385,4 +411,3 @@
 
 <!-- Others -->
 [scratch-icon]: /static/svg/technologies/scratch.svg "Scratch"
-
