@@ -7,6 +7,7 @@
 #include "project/google-clone"
 #include "project/doggo-dash"
 #include "project/fiftyville"
+#include "project/__footer__"
 
 #include "stats"
 
@@ -21,4 +22,3 @@
 #include "reference_link/projects/projects"
 #include "reference_link/projects/deploy"
 #include "reference_link/projects/svg"
-
