@@ -1,5 +1,5 @@
 [project]
-name = "seyLu"
+name = "python-template"
 version = "0.0.1"
 # Support Python 3.11.
 requires-python = "==3.11"
@@ -10,8 +10,12 @@ authors = [
 
 
 [tool.ruff]
-# Enable flake8-bugbear (`B`) rules.
-select = ["E", "F", "B"]
+select = [
+    "E", # Pyflakes
+    "F", # Pycodestyle
+    "B", # flake8-bugbear
+    "I001" # isort
+]
 
 # Never enforce `E501` (line length violations).
 ignore = ["E501"]
@@ -25,18 +29,12 @@ unfixable = ["B"]
 "path/to/file.py" = ["E402"]
 
 
-[tool.isort]
-# Automatically apply black to isort.
-profile = "black"
-
-
 [tool.mypy]
 strict = "True"
 implicit_reexport = "True"
 
-# Exclude type checking on files/dirs.
+# Exclude type checking on files/dirs
 exclude = [
     # TOML basic string (double-quotes, backslash and other characters need escaping)
     # TOML literal string (single-quotes, no escaping necessary)
-    'app\.py$'
 ]

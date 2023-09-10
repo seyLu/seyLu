@@ -21,7 +21,7 @@ MARKDOWN_PATH = "markdown"
 SECTIONS_PATH = os.path.join(MARKDOWN_PATH, "sections")
 
 
-def main():
+def main() -> None:
     input_file = os.path.join(MARKDOWN_PATH, "main.md")
     output_file = os.path.join("README.md")
 
