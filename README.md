@@ -1,7 +1,7 @@
 ![Bocchi Banner](/static/images/all_black_stylized.jpg)
 
 <div align="center">
-    <h3>I stream <code>live coding</code> in twitch sometimes.</h3>
+    <h3>I livestream <code>coding sessions</code> on Twitch sometimes.</h3>
     <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
@@ -26,12 +26,14 @@
 
 <a id="projects"></a>
 <h3 align="center">--&nbsp;&nbsp;🚀 Deployed Projects&nbsp;&nbsp;--</h3>
-<details open>
+<details>
 <summary align="center">
     <kbd><kbd>Click</kbd> to view deployed projects</kbd>
+    <br>
+    <br>
 </summary>
 
-<h3><small>🔷</small> Mail</h3>
+<h3>🔷 Mail</h3>
 <blockquote>gmail-like full stack mail application written in django</blockquote>
 
 <p>
@@ -65,7 +67,7 @@
 
 <br>
 
-<h3><small>🔷</small> Clone Templates</h3>
+<h3>🔷 Clone Templates</h3>
 <blockquote>full stack express application that hosts a collection of templates used for building full stack clones</blockquote>
 
 <p>
@@ -96,7 +98,7 @@
 
 <br>
 
-<h3><small>🔷</small> Wikipedia Clone</h3>
+<h3>🔷 Wikipedia Clone</h3>
 <blockquote>wikipedia-like full stack wiki application written in django</blockquote>
 
 <p>
@@ -127,60 +129,99 @@
 
 <br>
 
-### Google Clone
+<h3>🔷 Google Clone</h3>
+<blockquote>google-like static search application written in javascript</blockquote>
 
-> google-like static search application written in javascript
-
-[<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][google-clone-demo-ref]
-
-[<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>][javascript-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>][css-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
-
-<br>
-
-### Doggo Dash
-
-> game written in scratch and packaged using turbowarp
-
-[<img src="https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" width="310" height="30">][doggo-dash-deploy-ref]
-[<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][doggo-dash-demo-ref]
-
-[<code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>][javascript-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>][css-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
+<p>
+    <a href="https://youtu.be/FYXgJcMr4YQ">
+        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+    </a>
+</p>
+<p>
+    <a href="https://www.javascript.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
+    </a>
+</p>
 
 <br>
 
-### Fiftyville
+<h3>🔷 Doggo Dash</h3>
+<blockquote>game written in scratch and packaged using turbowarp</blockquote>
 
-> inspired from a sql game of the same name is a full stack app/game written in flask
-
-[<img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">][fiftyville-demo-ref]
-
-[<code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" title="Flask"></code>][flask-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>][python-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=postgres&perline=1&theme=light" title="Postgres"></code>][postgres-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>][sqlite-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=jquery&perline=1&theme=light" title="JQuery"></code>][jquery-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>][bootstrap-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>][css-ref]
-[<code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>][html-ref]
+<p>
+    <a href="https://seylu.github.io/doggo-dash/">
+        <img src="https://img.shields.io/badge/View%20Deployment%20on%20GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" width="310" height="30">
+    </a>
+    <a href="https://youtu.be/kXCYEwcMD8I">
+        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+    </a>
+</p>
+<p>
+    <a href="https://www.javascript.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
+    </a>
+</p>
 
 <br>
 
-<hr>
+<h3>🔷 Fiftyville</h3>
+<blockquote>inspired from a sql game of the same name is a full stack app/game written in flask</blockquote>
+
+<p>
+    <a href="https://youtu.be/l2aBCjvdwhM">
+        <img src="https://img.shields.io/badge/Watch%20Demo%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="275" height="30">
+    </a>
+</p>
+<p>
+    <a href="https://flask.palletsprojects.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" title="Flask"></code>
+    </a>
+    <a href="https://www.python.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
+    </a>
+    <a href="https://www.postgresql.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=postgres&perline=1&theme=light" title="Postgres"></code>
+    </a>
+    <a href="https://www.sqlite.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
+    </a>
+    <a href="https://jquery.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=jquery&perline=1&theme=light" title="JQuery"></code>
+    </a>
+    <a href="https://getbootstrap.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>
+    </a>
+    <a href="https://www.w3.org/TR/CSS/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
+    </a>
+    <a href="https://html.spec.whatwg.org/multipage/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
+    </a>
+</p>
+
+<br>
+
 </details>
 </div>
 
 <br>
 
-<br>
-
-<div align="center">
+<p align="center">
     <img height="135" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&include_all_commits=true&hide=stars&rank_icon=percentile&show_icons=true&hide_title=true&theme=react">
     <img height="135" alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=bizkit-interview-task,doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&hide_title=true&theme=react">
-</div>
+</p>
 
 <br>
 

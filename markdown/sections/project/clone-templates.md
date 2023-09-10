@@ -1,4 +1,4 @@
-<h3><small>🔷</small> Clone Templates</h3>
+<h3>🔷 Clone Templates</h3>
 <blockquote>full stack express application that hosts a collection of templates used for building full stack clones</blockquote>
 
 <p>

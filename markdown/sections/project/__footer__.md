@@ -1,5 +1,2 @@
-<hr>
 </details>
 </div>
-
-<br>

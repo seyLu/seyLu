@@ -1,4 +1,4 @@
-<h3><small>🔷</small> Wikipedia Clone</h3>
+<h3>🔷 Wikipedia Clone</h3>
 <blockquote>wikipedia-like full stack wiki application written in django</blockquote>
 
 <p>

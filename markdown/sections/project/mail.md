@@ -1,4 +1,4 @@
-<h3><small>🔷</small> Mail</h3>
+<h3>🔷 Mail</h3>
 <blockquote>gmail-like full stack mail application written in django</blockquote>
 
 <p>
