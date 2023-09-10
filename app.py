@@ -1,3 +1,5 @@
+from typing import Any
+
 from flask import Flask, render_template
 from livereload import Server
 
@@ -7,7 +9,7 @@ app = Flask(__name__)
 
 
 @app.route("/")  # type: ignore[misc]
-def index() -> str:
+def index() -> Any:
     with open("README.md") as f:
         md = f.read()
 
