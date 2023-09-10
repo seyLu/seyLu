@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 
 @app.route("/")
-def index():
+def index() -> str:
     with open("README.md") as f:
         md = f.read()
 
