@@ -28,14 +28,14 @@
 <h3 align="center">--&nbsp;&nbsp;🚀 Deployed Projects&nbsp;&nbsp;--</h3>
 <details>
 <summary align="center">
-    <kbd><kbd>Click</kbd> to view deployed projects</kbd>
+    <kbd><kbd>CLICK</kbd> to view deployed projects</kbd>
     <br>
     <br>
 </summary>
 
 <h2><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.pythonanywhere.com/login/admin">
-        <kbd><kbd>⚪ View deployment</kbd> on PythonAnywhere</kbd>
+        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on PythonAnywhere</kbd>
     </a>
 </h2>
 <blockquote>A full-stack mail application, inspired by Gmail, built using Django. It offers users a unified platform to manage multiple email accounts with a user-friendly interface.</blockquote>
@@ -68,7 +68,7 @@
 
 <h2><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://clone-templates.onrender.com/">
-        <kbd><kbd>⚪ View deployment</kbd> on Render</kbd>
+        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
     </a>
 </h2>
 <blockquote>A full-stack Express application that serves as a repository for a collection of templates designed for creating full-stack clones of popular web applications. It simplifies the development process by providing pre-designed templates for various functionalities, accelerating the creation of web application prototypes</blockquote>
@@ -98,7 +98,7 @@
 
 <h2><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/KSov2QSPx4s">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>A full-stack wiki application built with Django, offers a Wikipedia-like platform where users can collaboratively create, edit, and organize knowledge articles on a wide range of topics, fostering information sharing and community-driven content development.</blockquote>
@@ -128,7 +128,7 @@
 
 <h2><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/FYXgJcMr4YQ">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>Recreating the front-end magic of Google Search, this static web application in JavaScript delivers a familiar and efficient user experience for searching the web, mirroring the interface of the world's most popular search engine.</blockquote>
@@ -149,10 +149,10 @@
 
 <h2><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/doggo-dash/">
-        <kbd><kbd>⚪ View deployment</kbd> on Github Pages</kbd>
+        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Github Pages</kbd>
     </a>&nbsp;
     <a href="https://youtu.be/kXCYEwcMD8I">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>Embark on an exciting 2D adventure in this Scratch-based game where you control a tenacious dog, skillfully navigating through a world filled with mischievous monsters. Packaged using TurboWarp, this game promises a thrilling and interactive experience.</blockquote>
@@ -173,7 +173,7 @@
 
 <h2><samp>🔷 Fiftyville</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/l2aBCjvdwhM">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>Bringing the world of crime mystery and SQL learning together, 'Fiftyville' is a captivating full-stack web application game developed in Flask. Dive into a thrilling adventure where you solve crimes while mastering SQL concepts, making learning both engaging and fun.</blockquote>
@@ -214,11 +214,12 @@
 
 <p align="center">
     <img height="135" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&include_all_commits=true&hide=stars&rank_icon=percentile&show_icons=true&hide_title=true&theme=react">
+    <br>
     <img height="135" alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=bizkit-interview-task,doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io&layout=compact&hide_title=true&theme=react">
 </p>
 
-<br>
-
 <div align="center">
-    <img src="https://moe-counter-fork.seylu.repl.co/get/@:seylu?theme=asoul" alt="seyLu hit count">
+    <img width="250" src="https://moe-counter-fork.seylu.repl.co/get/@:seylu?theme=rule34" alt="seyLu hit count">
+    <br>
+    <sub><samp>profile views since Sep 28, 2023</samp></sub>
 </div>

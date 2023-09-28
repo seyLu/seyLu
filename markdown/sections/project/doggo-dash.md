@@ -1,9 +1,9 @@
 <h2><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/doggo-dash/">
-        <kbd><kbd>⚪ View deployment</kbd> on Github Pages</kbd>
+        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Github Pages</kbd>
     </a>&nbsp;
     <a href="https://youtu.be/kXCYEwcMD8I">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>Embark on an exciting 2D adventure in this Scratch-based game where you control a tenacious dog, skillfully navigating through a world filled with mischievous monsters. Packaged using TurboWarp, this game promises a thrilling and interactive experience.</blockquote>

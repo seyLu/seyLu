@@ -1,6 +1,6 @@
 <h2><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.pythonanywhere.com/login/admin">
-        <kbd><kbd>⚪ View deployment</kbd> on PythonAnywhere</kbd>
+        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on PythonAnywhere</kbd>
     </a>
 </h2>
 <blockquote>A full-stack mail application, inspired by Gmail, built using Django. It offers users a unified platform to manage multiple email accounts with a user-friendly interface.</blockquote>

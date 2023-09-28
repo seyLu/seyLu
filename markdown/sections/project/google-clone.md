@@ -1,6 +1,6 @@
 <h2><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/FYXgJcMr4YQ">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>Recreating the front-end magic of Google Search, this static web application in JavaScript delivers a familiar and efficient user experience for searching the web, mirroring the interface of the world's most popular search engine.</blockquote>

@@ -1,6 +1,6 @@
 <h2><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://clone-templates.onrender.com/">
-        <kbd><kbd>⚪ View deployment</kbd> on Render</kbd>
+        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
     </a>
 </h2>
 <blockquote>A full-stack Express application that serves as a repository for a collection of templates designed for creating full-stack clones of popular web applications. It simplifies the development process by providing pre-designed templates for various functionalities, accelerating the creation of web application prototypes</blockquote>
