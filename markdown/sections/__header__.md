@@ -16,7 +16,7 @@
         </a>
     </p>
     <h3>
-        <a href="https://seylu.github.io">
+        <a href="https://seylu.pages.dev">
             セイル
         </a>
     </h3>
