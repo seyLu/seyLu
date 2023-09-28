@@ -1,6 +1,6 @@
 <h2><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/KSov2QSPx4s">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>A full-stack wiki application built with Django, offers a Wikipedia-like platform where users can collaboratively create, edit, and organize knowledge articles on a wide range of topics, fostering information sharing and community-driven content development.</blockquote>

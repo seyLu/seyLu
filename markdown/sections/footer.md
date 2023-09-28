@@ -1,3 +1,5 @@
 <div align="center">
-    <img src="https://moe-counter-fork.seylu.repl.co/get/@:seylu?theme=asoul" alt="seyLu hit count">
+    <img width="250" src="https://moe-counter-fork.seylu.repl.co/get/@:seylu?theme=rule34" alt="seyLu hit count">
+    <br>
+    <sub><samp>profile views since Sep 28, 2023</samp></sub>
 </div>

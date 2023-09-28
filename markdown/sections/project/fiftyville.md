@@ -1,6 +1,6 @@
 <h2><samp>🔷 Fiftyville</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/l2aBCjvdwhM">
-        <kbd><kbd>🔴 Watch demo</kbd> on Youtube</kbd>
+        <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
 <blockquote>Bringing the world of crime mystery and SQL learning together, 'Fiftyville' is a captivating full-stack web application game developed in Flask. Dive into a thrilling adventure where you solve crimes while mastering SQL concepts, making learning both engaging and fun.</blockquote>
