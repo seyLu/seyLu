@@ -26,6 +26,7 @@ def main() -> None:
     output_file = os.path.join("README.md")
 
     process(input_file, output_file)
+    nolinkheaders(output_file)
 
 
 def process(input_file: str, output_file: str) -> None:
@@ -63,6 +64,18 @@ def compile(file_path: str, output_file: str) -> None:
             output_f.write("\n")
 
         file_f.close()
+
+
+def nolinkheaders(readme_file: str) -> None:
+    pattern: str = r"<h[1-6]>"
+    replacement: str = r"\g<0><a href=\"#\">&#x200B;</a>"
+
+    readme_content: str = ""
+    with open(readme_file) as f:
+        readme_content = re.sub(pattern, replacement, f.read())
+
+    with open(readme_file, "w") as f:
+        f.write(readme_content)
 
 
 if __name__ == "__main__":

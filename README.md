@@ -1,7 +1,7 @@
 ![Bocchi Banner](/static/images/smug_chibi_nijika.jpg)
 
 <div align="center">
-    <samp><h2>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
+    <samp><h2><a href=\"#\">&#x200B;</a>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
     <p>
         <a href="mailto:seyluofficial@gmail.com">
             <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" >
@@ -15,7 +15,7 @@
             <img alt="Twitch" src="https://img.shields.io/badge/Twitch-9146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white">
         </a>
     </p>
-    <h3>
+    <h3><a href=\"#\">&#x200B;</a>
         <a href="https://seylu.pages.dev">
             セイル
         </a>
@@ -33,7 +33,7 @@
     <br>
 </summary>
 
-<h2><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.pythonanywhere.com/login/admin">
         <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on PythonAnywhere</kbd>
     </a>
@@ -66,7 +66,7 @@
 
 <br>
 
-<h2><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://clone-templates.onrender.com/">
         <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
     </a>
@@ -96,7 +96,7 @@
 
 <br>
 
-<h2><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/KSov2QSPx4s">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
@@ -126,7 +126,7 @@
 
 <br>
 
-<h2><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/FYXgJcMr4YQ">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
@@ -147,7 +147,7 @@
 
 <br>
 
-<h2><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/doggo-dash/">
         <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Github Pages</kbd>
     </a>&nbsp;
@@ -171,7 +171,7 @@
 
 <br>
 
-<h2><samp>🔷 Fiftyville</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 Fiftyville</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/l2aBCjvdwhM">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
