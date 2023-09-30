@@ -15,7 +15,7 @@ __status__ = "Prototype"
 import re
 
 if __name__ == "__main__":
-    pattern: str = r"<h[1-6]>"
+    pattern: str = r"<h[1-6]( align=\"center\")?>"
     replacement: str = r"\g<0><a href=\"#\">&#x200B;</a>"
 
     readme_content: str = ""

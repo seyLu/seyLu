@@ -67,7 +67,7 @@ def compile(file_path: str, output_file: str) -> None:
 
 
 def nolinkheaders(readme_file: str) -> None:
-    pattern: str = r"<h[1-6]>"
+    pattern: str = r"<h[1-6]( align=\"center\")?>"
     replacement: str = r"\g<0><a href=\"#\">&#x200B;</a>"
 
     readme_content: str = ""
