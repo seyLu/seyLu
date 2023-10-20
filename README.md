@@ -38,7 +38,7 @@
         <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
     </a>&nbsp;
     <a href="https://github.com/seyLu/medrec">
-        <kbd><kbd>🟣 SOURCE CODE</kbd> on Github</kbd>
+        <kbd><kbd>🟣 SOURCE CODE</kbd> on GitHub</kbd>
     </a>
 </h2>
 <blockquote>This ongoing project is a prototype for a Medical Record system built with Django, leveraging dynamic interactivity through HTMX and Alpine.js, and incorporating a user-friendly interface using DaisyUI. It aims to create a comprehensive and efficient solution for managing medical records.</blockquote>
@@ -258,6 +258,7 @@
 </p>
 
 <div align="center">
+    <img width="250" src="https://moe-counter-fork.seylu.repl.co/get/@:seylu?theme=rule34" alt="seyLu hit count">
     <br>
     <sub><samp>profile views since Sep 28, 2023</samp></sub>
 </div>
