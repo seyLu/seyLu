@@ -1,7 +1,6 @@
 #include "__header__"
 
 #include "project/__header__"
-#include "project/medrec"
 #include "project/mail"
 #include "project/clone-templates"
 #include "project/wikipedia-clone"
