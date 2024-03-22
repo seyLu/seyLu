@@ -1,0 +1,10 @@
+**/.git
+**/.svn
+**/.hg
+**/node_modules
+**/*.min.*
+*lock*
+scaffolds/**
+_config
+fixtures/
+markdown/main.md

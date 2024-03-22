@@ -1,7 +1,7 @@
 <h2><samp>🔷 MedRec</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://medrec-demo.onrender.com/">
         <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
-    </a>&nbsp;
+    </a>
     <a href="https://github.com/seyLu/medrec">
         <kbd><kbd>🟣 SOURCE CODE</kbd> on GitHub</kbd>
     </a>
@@ -11,25 +11,25 @@
 <p align="center">
     <a href="https://www.djangoproject.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://www.sqlite.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://alpinejs.dev/">
         <code><img height="25" src="https://skillicons.dev/icons?i=alpinejs&perline=1&theme=light" title="Alpine.js"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://tailwindcss.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=tailwind&perline=1&theme=light" title="TailwindCSS"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://www.w3.org/TR/CSS/">
         <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>&nbsp;
+    </a>
     <a href="https://html.spec.whatwg.org/multipage/">
         <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
     </a>

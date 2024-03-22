@@ -26,7 +26,7 @@ def main() -> None:
     output_file = os.path.join("README.md")
 
     process(input_file, output_file)
-    no_link_headers(output_file)
+    fix_link_format(output_file)
 
 
 def process(input_file: str, output_file: str) -> None:
@@ -66,13 +66,19 @@ def compile_to_readme(file_path: str, output_file: str) -> None:
         file_f.close()
 
 
-def no_link_headers(readme_file: str) -> None:
-    pattern: str = r"<h[1-6]( align=\"center\")?>"
-    replacement: str = r"\g<0><a href=\"#\">&#x200B;</a>"
+def fix_link_format(readme_file: str) -> None:
+    replacements: dict[str, str] = {
+        r"</a>": r"</a>&#x200B;&nbsp;&nbsp;",
+        r"<h[1-6]( align=\"center\")?>": r"\g<0><a href=\"#\">&#x200B;</a>",
+    }
 
-    readme_content: str = ""
+    readme_content: str | None = None
     with open(readme_file) as f:
-        readme_content = re.sub(pattern, replacement, f.read())
+        for pattern, replacement in replacements.items():
+            if not readme_content:
+                readme_content = re.sub(pattern, replacement, f.read())
+            else:
+                readme_content = re.sub(pattern, replacement, readme_content)
 
     with open(readme_file, "w") as f:
         f.write(readme_content)

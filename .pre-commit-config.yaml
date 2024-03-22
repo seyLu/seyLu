@@ -13,7 +13,7 @@ repos:
     rev: v4.0.0-alpha.8
     hooks:
       - id: prettier
-        types_or: [yaml, toml, markdown]
+        types_or: [yaml, toml, markdown, svg]
         additional_dependencies:
           - prettier@3.0.3
           - prettier-plugin-toml@1.0.0
