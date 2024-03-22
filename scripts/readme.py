@@ -26,7 +26,7 @@ def main() -> None:
     output_file = os.path.join("README.md")
 
     process(input_file, output_file)
-    nolinkheaders(output_file)
+    no_link_headers(output_file)
 
 
 def process(input_file: str, output_file: str) -> None:
@@ -47,12 +47,12 @@ def process(input_file: str, output_file: str) -> None:
 
         for file_path in file_path_matches:
             complete_file_path = os.path.join(SECTIONS_PATH, f"{file_path}.md")
-            compile(complete_file_path, output_file)
+            compile_to_readme(complete_file_path, output_file)
 
         input_f.close()
 
 
-def compile(file_path: str, output_file: str) -> None:
+def compile_to_readme(file_path: str, output_file: str) -> None:
     try:
         file_f = open(file_path)
     except FileNotFoundError:
@@ -66,7 +66,7 @@ def compile(file_path: str, output_file: str) -> None:
         file_f.close()
 
 
-def nolinkheaders(readme_file: str) -> None:
+def no_link_headers(readme_file: str) -> None:
     pattern: str = r"<h[1-6]( align=\"center\")?>"
     replacement: str = r"\g<0><a href=\"#\">&#x200B;</a>"
 

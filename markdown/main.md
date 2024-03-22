@@ -1,13 +1,13 @@
-#include "__header__"
+#include "**header**"
 
-#include "project/__header__"
+#include "project/**header**"
 #include "project/mail"
 #include "project/clone-templates"
 #include "project/wikipedia-clone"
 #include "project/google-clone"
 #include "project/doggo-dash"
 #include "project/fiftyville"
-#include "project/__footer__"
+#include "project/**footer**"
 
 #include "stats"
 
