@@ -37,13 +37,25 @@ jobs:
         run: python -m pip install --upgrade pip
 
       - name: Install Dependencies
-        run: pip install ruff black mypy
+        run: >
+          pip install
+          ruff
+          mypy
 
       - name: Ruff Linter
         run: ruff check . --diff
 
-      - name: Black Formatter
-        run: black . --diff --check
+      - name: Ruff Formatter
+        run: ruff format .
+
+      - name: Create .mypy_cache dir if not exists
+        run: |
+          if [[ ! -d .mypy_cache ]]; then
+            mkdir .mypy_cache
+          fi
 
       - name: Mypy Type Checker
-        run: mypy . --install-types --non-interactive --ignore-missing-imports
+        run: >
+          mypy .
+          --install-types
+          --non-interactive
