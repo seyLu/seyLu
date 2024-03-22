@@ -11,9 +11,10 @@
     <a href="https://seylu.pages.dev" title="Blog">
         <img width="28" height="32" src="/static/icons/rss.svg" alt="Blog Icon" />
     </a>
-
+</div>
+<div align="center">
     <samp><h2>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
 
-    <img src="/static/images/bandmaid_unleash.png" alt="Band-Maid Band Photo">
+    <img src="/static/images/bandmaid_unleash.png" alt="Band-Maid Band Photo" />
 
 </div>
