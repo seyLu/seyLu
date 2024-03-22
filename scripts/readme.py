@@ -81,7 +81,7 @@ def fix_link_format(readme_file: str) -> None:
                 readme_content = re.sub(pattern, replacement, readme_content)
 
     with open(readme_file, "w") as f:
-        f.write(readme_content)
+        f.write(readme_content)  # type: ignore [arg-type]
 
 
 if __name__ == "__main__":
