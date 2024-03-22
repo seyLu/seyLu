@@ -1,23 +1,21 @@
 <div align="center">
     <a href="mailto:seyluofficial@gmail.com" title="gmail">
-        <img width="32" height="32" src="/static/icons/mail.svg" alt="Gmail Icon" />
+        <img width="32" height="32" src="/static/icons/mail.svg" alt="Gmail Icon" >
     </a>&#x200B;&nbsp;&nbsp;
     <a href="https://seylu.github.io/resume/mj_sabit_resume.pdf" title="Resume">
-        <img width="32" height="32" src="/static/icons/cv.svg" alt="Resume Icon" />
+        <img width="32" height="32" src="/static/icons/cv.svg" alt="Resume Icon" >
     </a>&#x200B;&nbsp;&nbsp;
     <a href="https://twitch.com/seylu_dev" title="Twitch">
-        <img width="32" height="32" src="/static/icons/twitch.svg" alt="Twitch Icon" />
+        <img width="32" height="32" src="/static/icons/twitch.svg" alt="Twitch Icon" >
     </a>&#x200B;&nbsp;&nbsp;
     <a href="https://seylu.pages.dev" title="Blog">
-        <img width="28" height="32" src="/static/icons/rss.svg" alt="Blog Icon" />
+        <img width="28" height="32" src="/static/icons/rss.svg" alt="Blog Icon" >
     </a>&#x200B;&nbsp;&nbsp;
-</div>
-<div align="center">
-    <samp><h2><a href=\"#\">&#x200B;</a>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
 
-    <img src="/static/images/bandmaid_unleash.png" alt="Band-Maid Band Photo" />
+    <h2><a href=\"#\">&#x200B;</a><samp>I <ins>code stuff</ins> live on Twitch sometimes.</samp></h2>
 
 </div>
+<img src="/static/images/bandmaid_unleash.png" alt="Band-Maid Band Photo" >
 
 <a id="projects"></a>&#x200B;&nbsp;&nbsp;
 
