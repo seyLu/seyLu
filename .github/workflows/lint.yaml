@@ -20,7 +20,7 @@ jobs:
 
     steps:
       - name: Harden Runner
-        uses: step-security/harden-runner@6d3c2fe731c8f225990c8018cb71c337c0d9dfcd # v2.5.0
+        uses: step-security/harden-runner@d7cf128fba8343bb6666acf77451879c0530cac8 # v2.5.0
         with:
           egress-policy: audit
 
@@ -28,7 +28,7 @@ jobs:
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v3.5.3
 
       - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@82c7e631bb3cdc910f68e0081d67478d79c6982d # v4.7.0
+        uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v4.7.0
         with:
           python-version: ${{ matrix.python-version }}
           cache: pip

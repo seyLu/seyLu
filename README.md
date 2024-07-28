@@ -15,11 +15,9 @@
 <div align="center">
     <samp><h2><a href=\"#\">&#x200B;</a>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
 </div>
-<a href="https://www.youtube.com/watch?v=QbyQCJn6rYg">
-    <img src="/static/images/bandmaid_unleash.png" alt="Band-Maid Band Photo" >
+<a href="https://www.youtube.com/watch?v=cZWSDsDsbZU">
+    <img src="/static/images/thewarning_overlayed.png" alt="Band-Maid Band Photo" >
 </a>&#x200B;&nbsp;&nbsp;
-
-<a id="projects"></a>&#x200B;&nbsp;&nbsp;
 
 <details>
 <summary align="right">
