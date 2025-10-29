@@ -15,8 +15,8 @@
 <div align="center">
     <samp><h2><a href=\"#\">&#x200B;</a>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
 </div>
-<a href="https://www.youtube.com/watch?v=mV0SHcP0eQQ">
-    <img src="/static/images/thewarning_overlayed.png" alt="The Warning Band Photo" >
+<a href="https://www.youtube.com/watch?v=cZWSDsDsbZU">
+    <img src="/static/images/thewarning_overlayed.png" alt="Band-Maid Band Photo" >
 </a>&#x200B;&nbsp;&nbsp;
 
 <details>
@@ -33,70 +33,52 @@
     <br>
 </p>
 
-<h2><a href=\"#\">&#x200B;</a><samp>🔶  Mail</samp>&nbsp;&nbsp;&nbsp;
-    <a href="https://seylu.pythonanywhere.com/login/admin">
-        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on PythonAnywhere</kbd>
+<h2><a href=\"#\">&#x200B;</a><samp>🔶 curator</samp>&nbsp;&nbsp;&nbsp;
+    <a href="https://seylu.github.io/curator">
+        <kbd><kbd>🟢 VIEW DEPLOYMENT</kbd> on GitHub Pages</kbd>
+    </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://github.com/seylu/curator">
+        <kbd><kbd>⚪ VIEW SOURCE</kbd> on GitHub</kbd>
     </a>&#x200B;&nbsp;&nbsp;
 </h2>
-<blockquote>A full-stack mail application, inspired by Gmail, built using Django. It offers users a unified platform to manage multiple email accounts with a user-friendly interface.</blockquote>
+<blockquote>A masonry gallery viewer for open museum APIs.</blockquote>
 
 <p align="center">
-    <a href="https://www.djangoproject.com/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
+    <a href="https://www.typescriptlang.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" title="TypeScript"></code>
     </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://react.dev/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=react&perline=1&theme=light" title="React"></code>
+    </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://vite.dev/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=vite&perline=1&theme=light" title="Vite"></code>
+    </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://tailwindcss.com/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=tailwind&perline=1&theme=light" title="Tailwind CSS"></code>
+    </a>&#x200B;&nbsp;&nbsp;
+</p>
+
+<br>
+
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 ghlabel</samp>&nbsp;&nbsp;&nbsp;
+    <a href="https://youtu.be/iTdzwz8Azvo">
+        <kbd><kbd>🔴 WATCH PYCON APAC TALK</kbd> on Youtube</kbd>
+    </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://github.com/seylu/ghlabel">
+        <kbd><kbd>⚪ VIEW SOURCE</kbd> on GitHub</kbd>
+    </a>&#x200B;&nbsp;&nbsp;
+</h2>
+<blockquote>Python CLI tool to help setup GitHub Labels from a yaml/json config file.</blockquote>
+
+<p align="center">
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
     </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://www.sqlite.org/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=sqlite&perline=1&theme=light" title="SQLite"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://www.javascript.com/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://getbootstrap.com/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=bootstrap&perline=1&theme=light" title="Bootstrap"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://www.w3.org/TR/CSS/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://html.spec.whatwg.org/multipage/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
-    </a>&#x200B;&nbsp;&nbsp;
 </p>
 
 <br>
 
-<h2><a href=\"#\">&#x200B;</a><samp>🔷 Clone Templates</samp>&nbsp;&nbsp;&nbsp;
-    <a href="https://clone-templates.onrender.com/">
-        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
-    </a>&#x200B;&nbsp;&nbsp;
-</h2>
-<blockquote>A full-stack Express application that serves as a repository for a collection of templates designed for creating full-stack clones of popular web applications. It simplifies the development process by providing pre-designed templates for various functionalities, accelerating the creation of web application prototypes</blockquote>
-
-<p align="center">
-    <a href="https://expressjs.com/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=express&perline=1&theme=light" title="Express"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://nodejs.org/en/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=nodejs&perline=1&theme=light" title="Node"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://www.javascript.com/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://material.io/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=materialui&perline=1&theme=light" title="Material"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://www.w3.org/TR/CSS/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=css&perline=1&theme=light" title="CSS"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-    <a href="https://html.spec.whatwg.org/multipage/">
-        <code><img height="25" src="https://skillicons.dev/icons?i=html&perline=1&theme=light" title="HTML"></code>
-    </a>&#x200B;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<h2><a href=\"#\">&#x200B;</a><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔶 wikipedia-clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/KSov2QSPx4s">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
@@ -126,7 +108,7 @@
 
 <br>
 
-<h2><a href=\"#\">&#x200B;</a><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 google-clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/FYXgJcMr4YQ">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
@@ -147,9 +129,9 @@
 
 <br>
 
-<h2><a href=\"#\">&#x200B;</a><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔶 doggo-dash</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/doggo-dash/">
-        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Github Pages</kbd>
+        <kbd><kbd>🟢 VIEW DEPLOYMENT</kbd> on GitHub Pages</kbd>
     </a>&#x200B;&nbsp;&nbsp;
     <a href="https://youtu.be/kXCYEwcMD8I">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
@@ -171,7 +153,7 @@
 
 <br>
 
-<h2><a href=\"#\">&#x200B;</a><samp>🔷 Fiftyville</samp>&nbsp;&nbsp;&nbsp;
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 fiftyville</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/l2aBCjvdwhM">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
@@ -208,3 +190,4 @@
 <br>
 
 </details>
+

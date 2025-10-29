@@ -9,7 +9,7 @@ app = Flask(__name__)
 
 
 @app.route("/")  # type: ignore[misc]
-def index() -> Any:
+def index() -> str:
     with open("README.md") as f:
         md = f.read()
 

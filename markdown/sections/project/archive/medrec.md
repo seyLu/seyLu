@@ -1,4 +1,4 @@
-<h2><samp>🔷 MedRec</samp>&nbsp;&nbsp;&nbsp;
+<h2><samp>🔷 medrec</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://medrec-demo.onrender.com/">
         <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Render</kbd>
     </a>

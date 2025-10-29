@@ -1,4 +1,4 @@
-<h2><samp>🔶  Wikipedia Clone</samp>&nbsp;&nbsp;&nbsp;
+<h2><samp>🔶 wikipedia-clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/KSov2QSPx4s">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>

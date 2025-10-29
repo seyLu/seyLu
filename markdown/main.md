@@ -2,8 +2,8 @@
 
 #include "project/__header__"
 #include "stats"
-#include "project/mail"
-#include "project/clone-templates"
+#include "project/curator"
+#include "project/ghlabel"
 #include "project/wikipedia-clone"
 #include "project/google-clone"
 #include "project/doggo-dash"

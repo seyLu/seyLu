@@ -1,6 +1,6 @@
-<h2><samp>🔶  Doggo Dash</samp>&nbsp;&nbsp;&nbsp;
+<h2><samp>🔶 doggo-dash</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/doggo-dash/">
-        <kbd><kbd>⚪ VIEW DEPLOYMENT</kbd> on Github Pages</kbd>
+        <kbd><kbd>🟢 VIEW DEPLOYMENT</kbd> on GitHub Pages</kbd>
     </a>
     <a href="https://youtu.be/kXCYEwcMD8I">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>

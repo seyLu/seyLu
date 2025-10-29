@@ -1,4 +1,4 @@
-<h2><samp>🔷 Google Clone</samp>&nbsp;&nbsp;&nbsp;
+<h2><samp>🔷 google-clone</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://youtu.be/FYXgJcMr4YQ">
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
