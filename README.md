@@ -15,23 +15,15 @@
 <div align="center">
     <samp><h2><a href=\"#\">&#x200B;</a>I <ins>code stuff</ins> live on Twitch sometimes.</h2></samp>
 </div>
-<a href="https://www.youtube.com/watch?v=cZWSDsDsbZU">
-    <img src="/static/images/thewarning_overlayed.png" alt="Band-Maid Band Photo" >
-</a>&#x200B;&nbsp;&nbsp;
 
 <details>
-<summary align="right">
+<summary align="center">
     <kbd><kbd>CLICK</kbd> to view deployed projects</kbd>
     <a href="#projects"></a>&#x200B;&nbsp;&nbsp;
     <br>
     <br>
 </summary>
-
-<p align="right">
-    <img height="135" alt="Most Used Languages" src="https://github-readme-stats-seylu.vercel.app/api/top-langs/?username=seylu&hide=procfile,batchfile,handlebars,hack,html,css&langs_count=6&exclude_repo=bizkit-interview-task,doggo-dash,From_Coursera,php-tutorials,github-readme-stats,seylu.github.io,danawan0409-my_website,Grichnak-Portfolio,GabiMuresan22-Flixx-Movie-Website&layout=compact&hide_title=true&theme=react">
-    <img height="135" alt="Github Stats" src="https://github-readme-stats-seylu.vercel.app/api?username=seylu&include_all_commits=true&hide=stars&rank_icon=percentile&show_icons=true&hide_title=true&theme=react">
-    <br>
-</p>
+<div align="left">
 
 <h2><a href=\"#\">&#x200B;</a><samp>🔶 curator</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/curator">
@@ -43,7 +35,7 @@
 </h2>
 <blockquote>A masonry gallery viewer for open museum APIs.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.typescriptlang.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" title="TypeScript"></code>
     </a>&#x200B;&nbsp;&nbsp;
@@ -70,7 +62,7 @@
 </h2>
 <blockquote>Python CLI tool to help setup GitHub Labels from a yaml/json config file.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
     </a>&#x200B;&nbsp;&nbsp;
@@ -83,9 +75,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
 </h2>
-<blockquote>A full-stack wiki application built with Django, offers a Wikipedia-like platform where users can collaboratively create, edit, and organize knowledge articles on a wide range of topics, fostering information sharing and community-driven content development.</blockquote>
+<blockquote>A full stack wikipedia clone built with Django.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.djangoproject.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
     </a>&#x200B;&nbsp;&nbsp;
@@ -113,9 +105,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
 </h2>
-<blockquote>Recreating the front-end magic of Google Search, this static web application in JavaScript delivers a familiar and efficient user experience for searching the web, mirroring the interface of the world's most popular search engine.</blockquote>
+<blockquote>Google clone built with Vanilla JS. Took down demo link as it was flagged as deceptive by Google.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
     </a>&#x200B;&nbsp;&nbsp;
@@ -137,9 +129,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
 </h2>
-<blockquote>Embark on an exciting 2D adventure in this Scratch-based game where you control a tenacious dog, skillfully navigating through a world filled with mischievous monsters. Packaged using TurboWarp, this game promises a thrilling and interactive experience.</blockquote>
+<blockquote>2D top-down action survival game built with Scratch and packaged with Turbowarp.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
     </a>&#x200B;&nbsp;&nbsp;
@@ -158,9 +150,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>&#x200B;&nbsp;&nbsp;
 </h2>
-<blockquote>Bringing the world of crime mystery and SQL learning together, 'Fiftyville' is a captivating full-stack web application game developed in Flask. Dive into a thrilling adventure where you solve crimes while mastering SQL concepts, making learning both engaging and fun.</blockquote>
+<blockquote>A full stack mystery game built with Flask, inspired from the CS50x SQL game: fiftyville.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://flask.palletsprojects.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" title="Flask"></code>
     </a>&#x200B;&nbsp;&nbsp;
@@ -189,5 +181,6 @@
 
 <br>
 
+</div>
 </details>
 

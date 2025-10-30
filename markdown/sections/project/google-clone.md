@@ -3,9 +3,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
-<blockquote>Recreating the front-end magic of Google Search, this static web application in JavaScript delivers a familiar and efficient user experience for searching the web, mirroring the interface of the world's most popular search engine.</blockquote>
+<blockquote>Google clone built with Vanilla JS. Took down demo link as it was flagged as deceptive by Google.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.javascript.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=js&perline=1&theme=light" title="JavaScript"></code>
     </a>

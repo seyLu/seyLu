@@ -3,9 +3,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
-<blockquote>A full-stack wiki application built with Django, offers a Wikipedia-like platform where users can collaboratively create, edit, and organize knowledge articles on a wide range of topics, fostering information sharing and community-driven content development.</blockquote>
+<blockquote>A full stack wikipedia clone built with Django.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.djangoproject.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=django&perline=1&theme=light" title="Django"></code>
     </a>

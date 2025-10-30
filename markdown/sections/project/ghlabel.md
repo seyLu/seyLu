@@ -8,7 +8,7 @@
 </h2>
 <blockquote>Python CLI tool to help setup GitHub Labels from a yaml/json config file.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.python.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=py&perline=1&theme=light" title="Python"></code>
     </a>

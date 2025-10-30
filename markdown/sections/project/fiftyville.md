@@ -3,9 +3,9 @@
         <kbd><kbd>🔴 WATCH DEMO</kbd> on Youtube</kbd>
     </a>
 </h2>
-<blockquote>Bringing the world of crime mystery and SQL learning together, 'Fiftyville' is a captivating full-stack web application game developed in Flask. Dive into a thrilling adventure where you solve crimes while mastering SQL concepts, making learning both engaging and fun.</blockquote>
+<blockquote>A full stack mystery game built with Flask, inspired from the CS50x SQL game: fiftyville.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://flask.palletsprojects.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=flask&perline=1&theme=light" title="Flask"></code>
     </a>

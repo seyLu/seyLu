@@ -8,7 +8,7 @@
 </h2>
 <blockquote>A masonry gallery viewer for open museum APIs.</blockquote>
 
-<p align="center">
+<p align="right">
     <a href="https://www.typescriptlang.org/">
         <code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" title="TypeScript"></code>
     </a>
