@@ -25,6 +25,27 @@
 </summary>
 <div align="left">
 
+<h2><a href=\"#\">&#x200B;</a><samp>🔷 pinned-gists</samp>&nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/seylu/pinned-gists">
+        <kbd><kbd>⚪ VIEW SOURCE</kbd> on GitHub</kbd>
+    </a>&#x200B;&nbsp;&nbsp;
+</h2>
+<blockquote>Automatically generate GitHub stats and pin them as dynamic gists.</blockquote>
+
+<p align="right">
+    <a href="https://www.typescriptlang.org/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=ts&perline=1&theme=light" title="TypeScript"></code>
+    </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://vitest.dev/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=vitest&perline=1&theme=light" title="Vitest"></code>
+    </a>&#x200B;&nbsp;&nbsp;
+    <a href="https://https://pnpm.io/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=pnpm&perline=1&theme=light" title="PNPM"></code>
+    </a>&#x200B;&nbsp;&nbsp;
+</p>
+
+<br>
+
 <h2><a href=\"#\">&#x200B;</a><samp>🔶 curator</samp>&nbsp;&nbsp;&nbsp;
     <a href="https://seylu.github.io/curator">
         <kbd><kbd>🟢 VIEW DEPLOYMENT</kbd> on GitHub Pages</kbd>

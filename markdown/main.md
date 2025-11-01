@@ -1,6 +1,7 @@
 #include "__header__"
 
 #include "project/__header__"
+#include "project/pinned-gists"
 #include "project/curator"
 #include "project/ghlabel"
 #include "project/wikipedia-clone"
