@@ -21,6 +21,9 @@
     <a href="https://tailwindcss.com/">
         <code><img height="25" src="https://skillicons.dev/icons?i=tailwind&perline=1&theme=light" title="Tailwind CSS"></code>
     </a>
+    <a href="https://https://pnpm.io/">
+        <code><img height="25" src="https://skillicons.dev/icons?i=pnpm&perline=1&theme=light" title="PNPM"></code>
+    </a>
 </p>
 
 <br>
