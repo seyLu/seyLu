@@ -10,6 +10,7 @@
 # supported CodeQL languages.
 #
 name: 'CodeQL'
+run-name: Security Scanning ${{ github.repository }}
 
 on:
   push:

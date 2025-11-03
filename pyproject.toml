@@ -36,8 +36,8 @@ ignore = ["E501"]
 
 
 [tool.mypy]
-strict = "True"
-implicit_reexport = "True"
+strict = true
+implicit_reexport = true
 check_untyped_defs = true
 ignore_missing_imports = true
 
