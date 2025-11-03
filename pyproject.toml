@@ -1,17 +1,16 @@
 [project]
-name = "seyLu"
+name = "seylu"
+description = "github.com/seyLu"
+readme = "README.md"
 requires-python = ">=3.12"
 license = "MIT"
 authors = [
   { name = "MJ Sabit (seyLu)", email = "98249191+seyLu@users.noreply.github.com" },
 ]
-description = "github.com/seyLu"
-readme = "README.md"
 dynamic = ["version"]
 keywords = ["seyLu", "README Profile", "Github Profile"]
 classifiers = [
   "Programming Language :: Python :: 3",
-  "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent",
 ]
 dependencies = []

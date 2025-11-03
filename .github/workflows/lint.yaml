@@ -16,7 +16,11 @@ jobs:
 
     strategy:
       matrix:
-        python-version: ['3.12']
+        python-version:
+          - '3.12'
+
+    env:
+      UV_SYSTEM_PYTHON: 1
 
     steps:
       - name: Harden Runner
@@ -40,7 +44,7 @@ jobs:
 
       - name: Install Dependencies
         run: >
-          uv add
+          uv pip install
           ruff
           mypy
 
