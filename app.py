@@ -6,7 +6,7 @@ from markdown import markdown  # type: ignore[attr-defined]
 app = Flask(__name__)
 
 
-@app.route("/")  # type: ignore[misc]
+@app.route("/")
 def index() -> str:
     with open("README.md") as f:
         md = f.read()
