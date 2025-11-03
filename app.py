@@ -1,5 +1,3 @@
-from typing import Any
-
 from flask import Flask, render_template
 from livereload import Server
 
