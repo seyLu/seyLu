@@ -58,6 +58,8 @@ jobs:
             mkdir .mypy_cache
           fi
 
+      - run: mypy -V
+
       - name: Mypy Type Checker
         run: >
           mypy .
