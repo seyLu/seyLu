@@ -16,7 +16,7 @@ jobs:
 
     strategy:
       matrix:
-        python-version: ['3.11']
+        python-version: ['3.12']
 
     steps:
       - name: Harden Runner
@@ -31,14 +31,16 @@ jobs:
         uses: actions/setup-python@e797f83bcb11b83ae66e0230d6156d7c80228e7c # v4.7.0
         with:
           python-version: ${{ matrix.python-version }}
-          cache: pip
 
-      - name: Install and upgrade PIP
-        run: python -m pip install --upgrade pip
+      - name: Install uv with all available options
+        uses: astral-sh/setup-uv@v7
+        with:
+          python-version: ${{ matrix.python-version }}
+          enable-cache: true
 
       - name: Install Dependencies
         run: >
-          pip install
+          uv pip install
           ruff
           mypy
 
