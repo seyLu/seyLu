@@ -19,9 +19,6 @@ jobs:
         python-version:
           - '3.12'
 
-    env:
-      UV_SYSTEM_PYTHON: 1
-
     steps:
       - name: Harden Runner
         uses: step-security/harden-runner@f4a75cfd619ee5ce8d5b864b0d183aff3c69b55a # v2.5.0
@@ -41,6 +38,7 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           enable-cache: true
+          activate-environment: true
 
       - name: Install Dependencies
         run: >
@@ -65,4 +63,3 @@ jobs:
           mypy .
           --install-types
           --non-interactive
-          --config-file pyproject.toml
