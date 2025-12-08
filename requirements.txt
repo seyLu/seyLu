@@ -6,7 +6,7 @@ Jinja2==3.1.6
 livereload==2.7.1
 Markdown==3.10
 MarkupSafe==3.0.3
-pymdown-extensions==10.17.1
+pymdown-extensions==10.18
 PyYAML==6.0.3
 six==1.17.0
 tornado<=6.5.2
